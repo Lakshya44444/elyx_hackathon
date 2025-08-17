@@ -1,0 +1,500 @@
+[
+  {
+    "timestamp": "2025-09-10 10:08",
+    "sender": "Rohan",
+    "message": "Feeling accomplished after 8 months! What's next?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-10 11:49",
+    "sender": "Sarah",
+    "message": "Congrats Rohan! The Elyx team is proud of your progress. Let's discuss your next steps.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-10 12:11",
+    "sender": "Ruby",
+    "message": "We're happy to help you set goals for the next phase. When would you like a call?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-10 13:49",
+    "sender": "Rohan",
+    "message": "Sounds good, maybe Thursday or Friday?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-10 14:23",
+    "sender": "Advik",
+    "message": "Don't forget to review your habits and adjust as needed. You've come far!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-10 14:40",
+    "sender": "Sarah",
+    "message": "Rohan wants to know: How do I maintain this progress over the holidays?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-10 15:12",
+    "sender": "Carla",
+    "message": "Great question! We can provide some tips on balancing habits during breaks.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-10 15:14",
+    "sender": "Rohan",
+    "message": "Thanks for that! What are some simple habits I should prioritize daily?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-10 15:32",
+    "sender": "Rachel",
+    "message": "Don't forget about self-care, Rohan. Make time for relaxation and rejuvenation!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-10 15:44",
+    "sender": "Neel",
+    "message": "Remember to keep your exercise routine consistent, even with travel. You've got this!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-09-10 15:45",
+    "sender": "Dr. Warren",
+    "message": "As you reflect on your progress, what are the biggest takeaways for you?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-10 17:35",
+    "sender": "Rohan",
+    "message": "For me, it's been discipline and patience. I'm proud of myself!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-11 08:33",
+    "sender": "Sarah",
+    "message": "Hey team, Rohan wants to reflect on his progress. What are some key takeaways from our discussions?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-11 09:28",
+    "sender": "Ruby",
+    "message": "Congrats on making it this far! You've made significant strides in self-awareness and goal setting.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-11 11:19",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! Can I ask, what's the most important habit change for me to maintain after the program ends?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-11 11:46",
+    "sender": "Dr. Warren",
+    "message": "Consistency is key. Focus on building one strong routine that you can stick to long-term.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-11 12:17",
+    "sender": "Rohan",
+    "message": "Got it. Any tips on how to prioritize self-care during the last week of the program?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-11 14:37",
+    "sender": "Carla",
+    "message": "Make time for relaxation techniques, like meditation or deep breathing exercises, to manage stress.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-11 15:23",
+    "sender": "Sarah",
+    "message": "Hey Rohan, just a reminder that your next appointment with Dr. Warren is scheduled for Friday.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-09-11 16:21",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! I'll make sure to confirm with him directly.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-11 16:43",
+    "sender": "Advik",
+    "message": "How's the exercise routine going? Are you still meeting your step count goal most days?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-11 17:55",
+    "sender": "Rohan",
+    "message": "Yeah, I'm mostly on track, but had a tough day yesterday and missed my target. Any advice?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-12 09:20",
+    "sender": "Rohan",
+    "message": "Feeling accomplished on my 8-month journey! What's the plan for next steps?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-12 11:12",
+    "sender": "Sarah",
+    "message": "Congrats Rohan! Dr. Warren will guide you through the wrap-up process.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-12 12:17",
+    "sender": "Ruby",
+    "message": "You've come a long way! Let's review your progress and set new goals.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-12 13:51",
+    "sender": "Advik",
+    "message": "Don't forget to track your macros, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-12 14:10",
+    "sender": "Rohan",
+    "message": "Yeah, yeah... What about post-program support?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-12 14:19",
+    "sender": "Sarah",
+    "message": "Advik and Carla will be available for Q&A sessions.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-09-12 14:41",
+    "sender": "Carla",
+    "message": "Remember to stretch after workouts, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-12 15:23",
+    "sender": "Rohan",
+    "message": "How's everyone doing? Any success stories to share?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-12 15:32",
+    "sender": "Rachel",
+    "message": "I've lost 10 kg since joining Elyx! Keep pushing, friends!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-12 16:46",
+    "sender": "Neel",
+    "message": "Don't forget to prioritize self-care, Rohan. You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-12 17:28",
+    "sender": "Sarah",
+    "message": "Great reminder, Neel! Stay committed and flexible.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-09-13 09:18",
+    "sender": "Rohan",
+    "message": "Hi Elyx, feeling a bit overwhelmed with 4 days to go",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-13 09:52",
+    "sender": "Ruby",
+    "message": "Don't worry Rohan! You've come a long way. What's on your mind?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-13 11:12",
+    "sender": "Rohan",
+    "message": "Just worried about staying on track after program ends. Any tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-13 12:46",
+    "sender": "Sarah",
+    "message": "On behalf of Rohan, what can we do differently for the next 4 days?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-13 13:54",
+    "sender": "Dr. Warren",
+    "message": "Stick to your plan, adjust as needed. Focus on small wins.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-13 14:04",
+    "sender": "Carla",
+    "message": "Remind yourself why you started this journey, Rohan!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-09-13 14:22",
+    "sender": "Rohan",
+    "message": "Good point Carla! Can I still make progress with 2 hours of exercise a week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-13 15:57",
+    "sender": "Advik",
+    "message": "Absolutely Rohan! Consistency is key. Make adjustments, not changes",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-13 17:01",
+    "sender": "Sarah",
+    "message": "Elyx team, can we discuss some tweaks to Rohan's plan?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-13 17:14",
+    "sender": "Rachel",
+    "message": "Of course Sarah! Let's schedule a call for tomorrow",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-09-13 17:37",
+    "sender": "Neel",
+    "message": "Hey Rohan, don't forget about self-care this week! You've got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 08:58",
+    "sender": "Rohan",
+    "message": "Can't believe it's already the final week!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 09:18",
+    "sender": "Sarah",
+    "message": "Hi Rohan! I know, time flies when you're making progress like this! Ruby has a great update for us.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 09:46",
+    "sender": "Ruby",
+    "message": "Hey Rohan! You've made tremendous progress so far! Your hard work is paying off. Keep going!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 10:22",
+    "sender": "Advik",
+    "message": "Great job on consistently showing up, Rohan! Carla has some tips to help with the last stretch.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-14 10:37",
+    "sender": "Carla",
+    "message": "Hi Rohan! Don't forget to prioritize self-care this week. Schedule some me-time and get enough sleep.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-09-14 11:06",
+    "sender": "Rohan",
+    "message": "Thanks for the reminder, Carla. What's the best way to stay focused during these last few days?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-09-14 12:57",
+    "sender": "Dr. Warren",
+    "message": "Great question, Rohan! Make a list of your top priorities and tackle them one by one. You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 13:14",
+    "sender": "Sarah",
+    "message": "Hi Rohan! Dr. Warren has some additional tips on her blog if you need more guidance.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-14 14:20",
+    "sender": "Rohan",
+    "message": "Awesome, thanks Sarah! How's my progress looking compared to the goals we set?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-14 15:12",
+    "sender": "Ruby",
+    "message": "Hi Rohan! You're right on track to meet your targets! Keep up the good work and remember to celebrate small wins.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 16:21",
+    "sender": "Neel",
+    "message": "Hey Rohan! Don't forget to stretch regularly this week. Your body will thank you for it!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-14 16:32",
+    "sender": "Rohan",
+    "message": "Will do, Neel! Rachel, how can I adjust my routine to stay on track?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-14 17:20",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Try moving your most important tasks to the morning and leave some buffer time in case things don't go as planned.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 08:31",
+    "sender": "Rohan",
+    "message": "Feeling accomplished after 8 months! What's the plan to sustain this progress?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-15 09:29",
+    "sender": "Sarah",
+    "message": "Congrats on reaching milestone, Rohan! We'll work on integrating new habits.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 12:08",
+    "sender": "Ruby",
+    "message": "Great job, Rohan! Remember to track your sleep quality and duration.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 12:28",
+    "sender": "Advik",
+    "message": "Hi Rohan, any questions about upcoming goals or challenges you're facing?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-15 12:55",
+    "sender": "Rohan",
+    "message": "Yeah, what's the best way to prioritize tasks for the next week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-15 13:20",
+    "sender": "Carla",
+    "message": "Hi Rohan! Just a reminder to take breaks and stretch every hour.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-09-15 13:37",
+    "sender": "Sarah",
+    "message": "Hey Rohan, can we schedule a call with Dr. Warren to discuss your nutrition plan?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-09-15 13:53",
+    "sender": "Dr. Warren",
+    "message": "Absolutely! Let's touch base on Friday at 3 PM.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-09-15 15:04",
+    "sender": "Rohan",
+    "message": "Thanks, Sarah! Also, what are some healthy snack options for busy days?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-15 15:32",
+    "sender": "Rachel",
+    "message": "Try nuts, fruits, or energy bars, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 15:50",
+    "sender": "Neel",
+    "message": "Hey Rohan, don't forget to incorporate strength training into your routine.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 16:03",
+    "sender": "Rohan",
+    "message": "Got it! Any tips on increasing my water intake throughout the day?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-15 16:12",
+    "sender": "Carla",
+    "message": "Aim for at least 8 cups (64 oz) daily, and track your progress.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 16:52",
+    "sender": "Sarah",
+    "message": "Remember, adjustments are normal. Focus on small wins each day.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-15 17:09",
+    "sender": "Ruby",
+    "message": "Keep those endorphins going with short walks during lunch breaks!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-15 17:20",
+    "sender": "Advik",
+    "message": "Hi Rohan, how's plan adherence looking this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-16 09:55",
+    "sender": "Ruby",
+    "message": "Congrats on reaching the final week! You've come a long way since Jan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-16 10:44",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! Feels surreal. How do I pace myself for these last few days?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-16 11:09",
+    "sender": "Sarah",
+    "message": "Hi Rohan, just checking in. Advik recommended some adjustments to your workout routine. Shall I share it with you?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-16 11:53",
+    "sender": "Carla",
+    "message": "Remember, consistent effort beats perfect practice. Keep pushing forward!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-16 11:54",
+    "sender": "Dr. Warren",
+    "message": "Don't forget to stretch after those intense workouts, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-09-16 12:50",
+    "sender": "Rohan",
+    "message": "Ah yeah, good reminder! How's my sleep been lately? Need some tips for the final push",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-09-16 13:19",
+    "sender": "Sarah",
+    "message": "Sleep quality is a bit off lately, but we can work on that this week. Neel suggested some calming exercises.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-09-16 16:00",
+    "sender": "Rachel",
+    "message": "Keep in mind, it's okay to adjust your schedule as needed. Life happens!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-09-16 17:45",
+    "sender": "Rohan",
+    "message": "Thanks, Rachel. What are the top 3 things I should focus on these last few days?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-09-16 17:47",
+    "sender": "Advik",
+    "message": "Prioritize consistency over perfection, and don't forget to celebrate small wins!",
+    "event": "update"
+  }
+]

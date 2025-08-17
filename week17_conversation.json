@@ -1,0 +1,596 @@
+[
+  {
+    "timestamp": "2025-05-01 08:46",
+    "sender": "Rohan",
+    "message": "Hey Sarah, how's my progress looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-01 09:59",
+    "sender": "Sarah",
+    "message": "You're still on track to hit your exercise goals, but let's work on sticking to the meal plan. What do you think about trying some new recipes this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-01 10:29",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Just wanted to check in on your sugar levels. Your latest panel showed a slight increase. We should discuss adjusting your medication at our next call.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-01 10:56",
+    "sender": "Rohan",
+    "message": "Yeah, I know it's been tough to stick to the diet lately. Any tips for making healthy meals more exciting?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-01 11:09",
+    "sender": "Sarah",
+    "message": "Actually, Rohan, Dr. Warren recommended trying meal prepping on weekends to save time during the week. Would you like me to send some recipe ideas?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-01 11:42",
+    "sender": "Dr. Warren",
+    "message": "Hey Rohan! Yes, meal prep can be a game-changer. Just make sure to vary your protein sources and veggies.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-01 11:48",
+    "sender": "Rohan",
+    "message": "That sounds doable. Thanks for the advice!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-01 11:54",
+    "sender": "Carla",
+    "message": "Rohan, just a heads up that your blood pressure has been a bit higher than usual this week. Let's discuss some stress-reducing techniques at our next call, okay?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-01 12:48",
+    "sender": "Rohan",
+    "message": "Stress is definitely an issue. I'll work on prioritizing self-care.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-01 14:00",
+    "sender": "Sarah",
+    "message": "Great job, Rohan! Remember to take breaks and stretch during your business trip this week. We've got a few tips on staying healthy while traveling if you need them.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-01 14:09",
+    "sender": "Advik",
+    "message": "Hey Rohan! Just wanted to remind you that we're monitoring your blood sugar levels closely due to your medication change last month. Keep up the good work!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-01 15:12",
+    "sender": "Rohan",
+    "message": "Thanks, Advik! I'll make sure to stay on top of it.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-01 15:34",
+    "sender": "Neel",
+    "message": "Rohan, have you been taking your meds consistently? We noticed a slight dip in your levels this week.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-01 15:39",
+    "sender": "Sarah",
+    "message": "Don't worry, Neel, we're on it! Rohan, can you confirm whether you took your meds as scheduled?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-01 16:02",
+    "sender": "Rohan",
+    "message": "Yeah, I'm good. Just had a minor blip this morning, but I'll make up for it today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-01 16:57",
+    "sender": "Rachel",
+    "message": "Hey Rohan! Just wanted to send some motivational vibes your way. You're doing great, and we're proud of your progress!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-01 17:09",
+    "sender": "Sarah",
+    "message": "Thanks, Rachel! Rohan, don't forget that our next call is this Friday to review your progress. Keep those healthy habits going!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-01 17:20",
+    "sender": "Sarah",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-02 08:01",
+    "sender": "Sarah",
+    "message": "Morning Rohan, how's your blood pressure been this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-02 08:03",
+    "sender": "Rohan",
+    "message": "It's under control, thanks Sarah. Still having trouble with sugar levels though.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-02 09:31",
+    "sender": "Ruby",
+    "message": "That's okay! We can work on that. What's your average reading been like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-02 10:53",
+    "sender": "Rohan",
+    "message": "Around 130/80. Still above the target range",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-02 11:18",
+    "sender": "Sarah",
+    "message": "Okay, let's schedule a call with Dr. Warren to discuss.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-02 12:12",
+    "sender": "Dr. Warren",
+    "message": "Morning Rohan. I've reviewed your test results from this week. Your cholesterol levels are still high. We need to focus on that.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-02 14:27",
+    "sender": "Rohan",
+    "message": "Ah okay, I was worried about that. Any suggestions?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-02 15:44",
+    "sender": "Advik",
+    "message": "Have you tried incorporating more plant-based meals into your diet? That can help with cholesterol.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-02 16:19",
+    "sender": "Rohan",
+    "message": "Hmm, not really. What kind of dishes should I try?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-02 17:05",
+    "sender": "Carla",
+    "message": "Hey Rohan! Have you heard about the benefits of turmeric for heart health? Worth exploring",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-02 17:11",
+    "sender": "Sarah",
+    "message": "Remember to take your meds on time today, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-02 17:15",
+    "sender": "Neel",
+    "message": "Hey Rohan, just a heads up - our Singapore office is hosting an event next Thursday. I'll need you there for 2 days.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-03 09:01",
+    "sender": "Sarah",
+    "message": "Hey Rohan, how's your blood pressure been this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-03 10:51",
+    "sender": "Rohan",
+    "message": "Not great, it's still a bit high. But I've tried to take my meds on time.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-03 11:25",
+    "sender": "Ruby",
+    "message": "Remember to stretch before bed and after exercise! Helps with blood flow",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-03 11:47",
+    "sender": "Sarah",
+    "message": "Good reminder Ruby Thanks for the tip! Did you get the full diagnostic test panel done?",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-05-03 14:17",
+    "sender": "Rohan",
+    "message": "Yeah, just got the results. Doc says my sugar levels are still a bit high, need to work on that",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-03 14:46",
+    "sender": "Dr. Warren",
+    "message": "Great job on taking proactive steps Rohan Remember to adjust your diet accordingly",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-03 14:51",
+    "sender": "Sarah",
+    "message": "Okay, so we'll adjust your meal plan to target those sugar levels What's your current exercise routine looking like?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-03 15:08",
+    "sender": "Rohan",
+    "message": "I try to go for walks 2-3 times a week, but sometimes miss days",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-03 15:51",
+    "sender": "Advik",
+    "message": "Consistency is key Rohan Try to schedule it in your calendar and stick to it",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-03 16:14",
+    "sender": "Sarah",
+    "message": "Agreed! We'll work on making it a habit. You're going out of town this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-03 16:17",
+    "sender": "Rohan",
+    "message": "Yeah, business trip to Tokyo for 5 days What's the plan while I'm away?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-03 16:41",
+    "sender": "Carla",
+    "message": "Don't worry, we've got you covered Rohan Keep your meds and supplements with you and try to stick to your routine as much as possible",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 08:17",
+    "sender": "Rohan",
+    "message": "Hey Sarah, how's my blood sugar control looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-04 08:22",
+    "sender": "Sarah",
+    "message": "Hi Rohan! Just checked your progress. Your average HbA1c this week is still a bit high (7.2%). We need to tweak your meds again.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 08:29",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Remember to take your metformin at the same time every day, and try to stay hydrated!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 08:50",
+    "sender": "Rohan",
+    "message": "Got it Ruby! Thanks for the reminder.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-04 09:06",
+    "sender": "Sarah",
+    "message": "Rohan, I'm concerned about your exercise routine. You've only been consistent 3 days this week. Can we reschedule your workout schedule?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-04 09:07",
+    "sender": "Rohan",
+    "message": "Yeah, sorry Sarah. Been busy with work. Can we push my next appointment to Friday instead?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-04 10:06",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Just got the results from your comprehensive test panel. Your lipid profile looks great, but your uric acid levels are a bit high (7.5 mg/dL). Let's discuss this further.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-04 10:10",
+    "sender": "Rohan",
+    "message": "Hmm, thanks Dr. Warren. I'm not sure what's causing it.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 10:31",
+    "sender": "Sarah",
+    "message": "Don't worry Rohan! We'll investigate. In the meantime, try reducing your purine-rich foods like seafood and organ meats.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 10:58",
+    "sender": "Advik",
+    "message": "Hi Rohan! Did you know that a balanced diet can help reduce uric acid levels?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-04 11:36",
+    "sender": "Rohan",
+    "message": "Ah, thanks Advik! I'll keep that in mind.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 11:50",
+    "sender": "Carla",
+    "message": "Hey Rohan! Just a friendly reminder to drink plenty of water throughout the day. It helps with overall health!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-04 12:15",
+    "sender": "Rohan",
+    "message": "Will do Carla! Thanks for the tip.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-04 12:56",
+    "sender": "Sarah",
+    "message": "Rohan, I have some travel plans for you. You're booked on a business trip from May 11th to 18th. We'll adjust your medication and diet accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-04 16:09",
+    "sender": "Rohan",
+    "message": "Alright Sarah! Got it. What changes should I make while traveling?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-04 16:32",
+    "sender": "Neel",
+    "message": "Hi Rohan! For your trip, consider packing healthy snacks like nuts and fruits. They're easy to carry and nutritious!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-04 17:28",
+    "sender": "Rachel",
+    "message": "And don't forget to stay hydrated during the flight, Rohan! Bring a refillable water bottle and drink up!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-05 08:34",
+    "sender": "Sarah",
+    "message": "Hey Rohan, how's your blood pressure been this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-05 09:53",
+    "sender": "Rohan",
+    "message": "It's still a bit high, Sarah. I've been doing okay with the exercise plan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-05 11:07",
+    "sender": "Ruby",
+    "message": "Hi Rohan! We did a full diagnostic test panel and it looks like your sugar levels are still a bit elevated. Let's discuss some tweaks to the plan.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-05 11:58",
+    "sender": "Sarah",
+    "message": "Okay got it Ruby! Can you send me the report so we can review it with Dr. Warren?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-05 12:09",
+    "sender": "Dr. Warren",
+    "message": "Sure thing Sarah! I'll take a look at the report. For now, let's focus on increasing your fiber intake and reducing sugar intake.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-05 13:20",
+    "sender": "Rohan",
+    "message": "Alright alright! I'll try to eat more veggies",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-05 16:04",
+    "sender": "Carla",
+    "message": "Hey Rohan, don't forget to stay hydrated! Dehydration can exacerbate blood pressure issues.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-05 16:25",
+    "sender": "Rohan",
+    "message": "Got it Carla! Thanks for the reminder!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-05 16:30",
+    "sender": "Sarah",
+    "message": "What's the plan looking like for your business trip next week? Are you going to stick to the exercise routine?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-05 17:06",
+    "sender": "Rohan",
+    "message": "Not sure Sarah. I might have to adjust my schedule a bit. But I'll try to fit in some exercise whenever possible.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-05 17:26",
+    "sender": "Advik",
+    "message": "Hey Rohan, just a friendly reminder that consistency is key! Let's work on sticking to the plan more than 50% of the time.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-05 17:48",
+    "sender": "Rohan",
+    "message": "Alright alright! I'll try to do better",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 08:42",
+    "sender": "Rohan",
+    "message": "Hey Sarah, how's the week going?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-06 09:11",
+    "sender": "Sarah",
+    "message": "Hi Rohan! Good. Just checked your blood sugar levels from last week. Still a bit high, but we're making progress!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 10:11",
+    "sender": "Ruby",
+    "message": "Morning Rohan! Your exercise routine looks good this week. Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 10:23",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! How's my BP looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-06 12:02",
+    "sender": "Dr. Warren",
+    "message": "Hey Rohan, just got the full diagnostic test panel results. Sugar levels are still elevated, and your HDL is a bit low.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-06 12:30",
+    "sender": "Sarah",
+    "message": "Okay, let's focus on making those adjustments. What questions do you have about the report?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-06 12:36",
+    "sender": "Rohan",
+    "message": "What does it mean if my HDL is low? Is that related to sugar levels?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-06 13:01",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Low HDL can increase your risk of heart disease. We'll work on increasing it.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 13:57",
+    "sender": "Advik",
+    "message": "Morning Rohan! Don't forget to take your meds regularly!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 15:18",
+    "sender": "Carla",
+    "message": "Hey Rohan, how's your water intake been this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-06 15:42",
+    "sender": "Rohan",
+    "message": "Honestly, not great Carla. Too busy with work",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 16:08",
+    "sender": "Rachel",
+    "message": "Don't worry Rohan! You can do better. Try drinking a glass of water as soon as you wake up and before bed.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-06 16:44",
+    "sender": "Neel",
+    "message": "Hey Rohan! Just got your travel plans for next week's business trip. Remember to pack your meds and healthy snacks!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-06 16:56",
+    "sender": "Sarah",
+    "message": "Also, Neel, remind him to schedule time for his routine exercise during the trip?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-07 08:23",
+    "sender": "Rohan",
+    "message": "Hi Sarah, need an update on my blood sugar levels today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-07 09:02",
+    "sender": "Sarah",
+    "message": "Okay Rohan! Your numbers from yesterday's test were slightly higher than last week. We'll discuss adjustments with Ruby later.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-07 10:06",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Thanks for following up. I'll review your results and we can adjust your exercise plan accordingly. Keep me posted on your workouts this week!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-07 11:45",
+    "sender": "Rohan",
+    "message": "Hey Sarah, have you seen the latest research on berberine and blood sugar control? I'm curious about its impact.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-07 11:46",
+    "sender": "Sarah",
+    "message": "Yeah, I just read that too! Ruby will be happy to share more insights when we discuss your results. Keep asking questions, Rohan!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-07 12:05",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Berberine does show promise in regulating blood sugar levels. We'll discuss incorporating it into your routine if needed. Keep me updated on your exercise and diet this week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-07 13:05",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! I'll try to do better with my workouts. Had a tough day yesterday, so I missed one session.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-07 13:52",
+    "sender": "Sarah",
+    "message": "That's okay Rohan! Don't stress. We adjust as needed. How about you increase your fiber intake today?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-07 15:17",
+    "sender": "Rohan",
+    "message": "Good tip Sarah! Will do that. Hey Dr. Warren, can you explain why fiber is important for blood sugar control?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-07 16:11",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Fiber helps slow down sugar absorption into the bloodstream, which can help regulate blood sugar levels. I'll send you some recommendations on high-fiber foods.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-07 17:12",
+    "sender": "Rohan",
+    "message": "Thanks Dr. Warren! What about travel this week? Got a business trip to Hong Kong on Friday.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-07 17:29",
+    "sender": "Sarah",
+    "message": "Easy travel prep Rohan! Just make sure to pack your medication and bring any relevant documents. We can adjust your routine when you're away if needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-07 17:30",
+    "sender": "Carla",
+    "message": "Hi Rohan! Don't forget to stay hydrated during the flight and try to get some exercise at your hotel gym. We'll keep an eye on your numbers remotely!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-07 17:41",
+    "sender": "Rohan",
+    "message": "Got it Carla! Thanks for the tips. Hey Advik, how can I manage stress while traveling?",
+    "event": "travel"
+  }
+]

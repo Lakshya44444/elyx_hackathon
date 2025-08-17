@@ -1,0 +1,422 @@
+[
+  {
+    "timestamp": "2025-08-22 08:57",
+    "sender": "Rohan",
+    "message": "Hi Ruby! Doing alright, just need a boost for the weekend. Thanks!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 09:18",
+    "sender": "Rohan",
+    "message": "Sounds good, Advik! Tired of feeling like I'm just going through motions",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 09:24",
+    "sender": "Sarah",
+    "message": "Hey Rohan! I can look into it for you. Will send some info later today!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 10:05",
+    "sender": "Rohan",
+    "message": "Honestly, no clue! Always feel tired",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 10:25",
+    "sender": "Rohan",
+    "message": "Got it, Ruby! Will try to focus more this week",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 10:47",
+    "sender": "Rachel",
+    "message": "Hi Rohan! The test panel is due after Week 36. Keep up the good work so far!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-22 11:28",
+    "sender": "Rohan",
+    "message": "That's a huge help, Sarah! Thank you so much",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 11:54",
+    "sender": "Sarah",
+    "message": "Good point, Rohan! Let's aim for ~5 hrs/week, but we can adjust as needed based on your schedule and energy levels.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-22 12:57",
+    "sender": "Rohan",
+    "message": "Thanks, Ruby! Your motivational push is just what I needed!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 13:51",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 14:17",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 17:15",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 17:24",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-22 17:29",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-23 08:27",
+    "sender": "Rohan",
+    "message": "Hey Sarah, need to adjust my workouts again.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-23 09:27",
+    "sender": "Sarah",
+    "message": "What's going on? You feeling stuck?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-23 09:44",
+    "sender": "Rohan",
+    "message": "Just bored with cardio. Can I add more strength training?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-23 11:54",
+    "sender": "Advik",
+    "message": "Done! I've updated your workout schedule. More strength exercises coming up!",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-08-23 13:29",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Time for our weekly check-in How's your mental game feeling today?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-23 13:42",
+    "sender": "Rohan",
+    "message": "Yeah, I'm good Ruby. Just getting started on this new strength routine.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-23 14:09",
+    "sender": "Ruby",
+    "message": "That's awesome! Keep pushing! And don't forget to take breaks",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-23 14:57",
+    "sender": "Rohan",
+    "message": "Hey Sarah, got some questions What's the deal with intermittent fasting? Is it really worth it?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-23 15:03",
+    "sender": "Sarah",
+    "message": "I can look into that. But first, let me clarify - are you doing any of these workouts while traveling this week?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-23 15:59",
+    "sender": "Rohan",
+    "message": "Yeah, heading to Tokyo Wed-Sat.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-23 16:17",
+    "sender": "Sarah",
+    "message": "Got it! I'll handle logistics and timezones. You focus on your workouts",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-23 17:22",
+    "sender": "Rohan",
+    "message": "Thanks, Sarah! Also, how accurate is my smartwatch for sleep tracking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-24 08:44",
+    "sender": "Rohan",
+    "message": "Hey team! How's my schedule looking for Tokyo trip?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-08-24 08:48",
+    "sender": "Sarah",
+    "message": "Hi Rohan! I've booked your flights and accommodations. You're free Wed-Sat.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-24 09:26",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Weekly check-in: Your focus is strong! Mid-week motivational push: You got this!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-24 09:45",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! Now, about workouts... I'm bored with cardio. Can we switch to more strength exercises?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-24 10:08",
+    "sender": "Advik",
+    "message": "Done! I've updated your workout plan. More strength training coming up!",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-08-24 10:28",
+    "sender": "Rohan",
+    "message": "Great! One more thing - how's my intermittent fasting plan looking? Should I stick to it while traveling?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-24 10:33",
+    "sender": "Dr. Warren",
+    "message": "Yes, keep it up! Even on days you're not fasting, focus on mindful eating.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-24 10:58",
+    "sender": "Rohan",
+    "message": "Cool. My smartwatch says I'm getting good sleep, but is it accurate? How can I trust it?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-24 11:01",
+    "sender": "Carla",
+    "message": "Good question! It's generally accurate, but use it as a guide, not the only metric. And don't forget to eat healthy snacks during meetings!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-24 11:29",
+    "sender": "Rohan",
+    "message": "Meditation and breathwork - should I keep doing them while traveling?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-24 12:21",
+    "sender": "Rachel",
+    "message": "Absolutely! Use those moments to relax and recharge.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-24 13:27",
+    "sender": "Sarah",
+    "message": "Hey Rohan! Just a reminder: Avoid heavy meals close to bedtime. Your body will thank you!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-24 15:07",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! I almost forgot. One more thing - what healthy snack options are good for meetings?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-24 15:31",
+    "sender": "Carla",
+    "message": "Nuts, fruits, and energy bars are all great choices.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-24 17:04",
+    "sender": "Sarah",
+    "message": "Rohan, don't forget about your test panel due after Week 36! Schedule it in advance.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-24 17:38",
+    "sender": "Rohan",
+    "message": "Got it! Thanks for the reminder.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-25 08:31",
+    "sender": "Ruby",
+    "message": "Hey Rohan! How's your week going? Any notable wins?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-25 08:41",
+    "sender": "Rohan",
+    "message": "Hi Ruby! It's been good. I'm just feeling a bit bored with cardio exercises.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-25 10:22",
+    "sender": "Ruby",
+    "message": "Hey Rohan, just wanted to remind you that you're crushing it! Don't give up on those workouts! Add some strength training to mix things up?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-25 10:59",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! I'll add more strength exercises. Advik, can you adjust my workout plan?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-25 11:26",
+    "sender": "Advik",
+    "message": "Done! New routine includes more strength training.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-08-25 12:22",
+    "sender": "Rohan",
+    "message": "Hey Sarah, what's the deal with intermittent fasting? Is it really that effective?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-25 12:50",
+    "sender": "Sarah",
+    "message": "Good question! It has benefits, but consult Dr. Warren for personalized advice.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-25 13:47",
+    "sender": "Rohan",
+    "message": "Hey Sarah, my smartwatch says I got 8 hours of sleep last night. Is that accurate?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-25 13:48",
+    "sender": "Sarah",
+    "message": "That's a common issue. Dr. Warren can help you troubleshoot.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-25 14:04",
+    "sender": "Rohan",
+    "message": "Hey Carla, do you have any recommendations for meditation/breathwork apps?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-08-25 14:47",
+    "sender": "Carla",
+    "message": "Yes! Try Headspace or Calm. Start with short sessions.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-25 16:29",
+    "sender": "Sarah",
+    "message": "Rohan, remember to bring healthy snacks to meetings. Avoid heavy late-night meals.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 08:37",
+    "sender": "Sarah",
+    "message": "Hey Rohan! Weekly check-in. How's your progress?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-26 08:41",
+    "sender": "Rohan",
+    "message": "Not bad, Sarah. Just feeling a bit stuck.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 09:05",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Mid-week motivational push: You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 09:17",
+    "sender": "Rohan",
+    "message": "Nice one, Advik! What's the new plan look like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-26 09:32",
+    "sender": "Sarah",
+    "message": "Reminder: Intermittent fasting Q&A with Dr. Warren on Friday.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-26 09:41",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Briefly, intermittent fasting can help with weight loss and insulin sensitivity. Start slow!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 09:46",
+    "sender": "Rohan",
+    "message": "Got it, Carla! Any healthy meeting snack ideas?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-26 12:05",
+    "sender": "Rachel",
+    "message": "Hey Rohan! Don't forget, test panel is due after Week 36.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-26 12:16",
+    "sender": "Sarah",
+    "message": "Travel update: You're flying to Tokyo on Wednesday and returning Saturday. I've taken care of logistics and timezones.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-26 12:32",
+    "sender": "Rohan",
+    "message": "Sarah, how much should I realistically commit to my routine while traveling?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-26 12:58",
+    "sender": "Sarah",
+    "message": "Aim for at least 3 hours/week, Rohan. Adherence might drop, but every bit counts!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 13:47",
+    "sender": "Rohan",
+    "message": "Got it! Thanks, Sarah.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 14:21",
+    "sender": "Rohan",
+    "message": "Hey Sarah, how accurate is my smartwatch sleep tracking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-26 15:11",
+    "sender": "Sarah",
+    "message": "It's decent, Rohan, but not perfect. Consider using a separate sleep tracker if you're concerned about accuracy.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-26 16:49",
+    "sender": "Rohan",
+    "message": "Okay, thanks for the tip! What are some good meditation/breathwork exercises?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-08-26 17:17",
+    "sender": "Neel",
+    "message": "Hi Rohan! For breathwork, try 4-7-8 and box breathing. Meditation apps like Headspace or Calm can help too!",
+    "event": "update"
+  }
+]

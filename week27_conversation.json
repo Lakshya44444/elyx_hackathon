@@ -1,0 +1,656 @@
+[
+  {
+    "timestamp": "2025-06-25 09:06",
+    "sender": "Rohan",
+    "message": "Traveling to Jakarta this week. What's my exercise plan?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 09:13",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Biweekly updates: Monday runs; Tuesday strength training; Wednesday yoga; Thursday rest. Adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-25 09:15",
+    "sender": "Rohan",
+    "message": "Got it. What about nutrition? Any travel tips?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 11:07",
+    "sender": "Carla",
+    "message": "For Jakarta, aim for balanced meals at hotel buffet or order from recommended restaurants. Avoid fried food & sugary drinks. Snack on nuts and fruits.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 11:21",
+    "sender": "Rohan",
+    "message": "What's my stress management plan during this trip?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-25 12:05",
+    "sender": "Advik",
+    "message": "Use your Garmin HRV data to monitor stress levels. Schedule 10-minute meditations before each meal to help manage jet lag.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 12:13",
+    "sender": "Rohan",
+    "message": "How do I adjust for timezone changes?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-25 12:18",
+    "sender": "Ruby",
+    "message": "Easy! Set your alarm clock 1 hour ahead of local time to accommodate Singapore/Jakarta time zones.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-25 12:20",
+    "sender": "Rohan",
+    "message": "What are my curiosity questions this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-25 12:43",
+    "sender": "Advik",
+    "message": "You asked about sleep quality, stress resilience, and heart rate variability during travel. I'll track the data!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 12:52",
+    "sender": "Rohan",
+    "message": "Any plan adjustments needed due to travel constraints?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-25 13:41",
+    "sender": "Ruby",
+    "message": "Given your busy schedule, adjust strength training to hotel room workouts. Prioritize runs on Monday and Wednesday.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-25 14:21",
+    "sender": "Rohan",
+    "message": "Can we re-evaluate my exercise goals considering my travel schedule?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 14:52",
+    "sender": "Rachel",
+    "message": "Let's reassess after this week. Focus on maintaining consistency with runs and hotel workouts for now.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-25 16:11",
+    "sender": "Rohan",
+    "message": "How do I keep track of my nutrition plan during this trip?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-25 16:22",
+    "sender": "Carla",
+    "message": "Use MyFitnessPal app to log meals and snacks. Take progress photos and track water intake to stay accountable.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-25 17:12",
+    "sender": "Rohan",
+    "message": "What about my stress levels? Any tips for managing it during travel?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-26 08:12",
+    "sender": "Sarah",
+    "message": "Confirming travel plans for Week 27. You're on a flight from Singapore to UK at 9 AM tomorrow (SG time).",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-26 08:53",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! Can you check if I need to adjust my morning workout routine during jet lag?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-26 09:20",
+    "sender": "Ruby",
+    "message": "Rohan, considering your flight schedule and timezone change, we'll schedule hotel workouts instead of early morning sessions. Carla will provide adjusted meal plans for travel.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-26 09:41",
+    "sender": "Carla",
+    "message": "Here's a revised nutrition plan, focusing on easy-to-pack snacks and meals that fit your UK business trip. Let me know if you need any adjustments!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-26 10:20",
+    "sender": "Rohan",
+    "message": "Appreciate the help! What about exercise updates? Do I need to adjust my biweekly routine?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-26 10:24",
+    "sender": "Advik",
+    "message": "Rohan, considering your travel schedule, we'll keep exercises moderate for now. Biweekly plan refresh will be adjusted accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-26 11:52",
+    "sender": "Sarah",
+    "message": "Here's your updated calendar. Virtual appointments scheduled as usual. Physical assessments delayed until you're back in Singapore.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-26 12:19",
+    "sender": "Rohan",
+    "message": "Got it! What are my top 3 focus areas for this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-26 13:45",
+    "sender": "Dr. Warren",
+    "message": "Maintain current lab results, prioritize stress management during travel, and keep an eye on sleep quality (Garmin).",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-26 13:58",
+    "sender": "Rohan",
+    "message": "Understood. What about curiosity questions? Can I ask up to 5 this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-26 14:41",
+    "sender": "Ruby",
+    "message": "Absolutely, Rohan! We're here to support you. Go ahead and ask your questions.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-26 15:07",
+    "sender": "Rohan",
+    "message": "Here's my first question: How can I improve my morning HRV readings during travel?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-26 15:15",
+    "sender": "Advik",
+    "message": "Great question! We'll explore strategies for maintaining healthy HRV during jet lag. More on that soon!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-26 15:30",
+    "sender": "Sarah",
+    "message": "Your calendar is updated, Rohan. Let me know if you need any further assistance.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-26 16:09",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! What about my sleep quality? Should I adjust my Garmin settings?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-26 16:56",
+    "sender": "Carla",
+    "message": "Good question! Carla will provide personalized tips for optimizing sleep during travel. Stay tuned!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-26 17:46",
+    "sender": "Neel",
+    "message": "Remember, Rohan, to prioritize self-care and stress management during this busy week. You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-27 08:15",
+    "sender": "Ruby",
+    "message": "Your travel itinerary is updated. Flight from Singapore to London on Friday.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-27 08:38",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! Can you confirm my morning routine for this trip?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-27 08:52",
+    "sender": "Ruby",
+    "message": "Morning workouts can be done at your hotel gym or in-room. Adjusted schedule sent.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-06-27 09:26",
+    "sender": "Advik",
+    "message": "Hey Rohan, HRV data suggests you're slightly stressed with travel approaching. Expect some adjustment needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-27 10:34",
+    "sender": "Rohan",
+    "message": "Got it, Advik. What are the top 3 takeaways from my recent blood work?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-27 10:35",
+    "sender": "Dr. Warren",
+    "message": "Cholesterol levels look good, but BP is slightly elevated. Monitor and adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-27 10:54",
+    "sender": "Carla",
+    "message": "For your meals during this trip, focus on high-protein, balanced snacks and light dinners. Avoid heavy carbs for now.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-27 10:57",
+    "sender": "Rohan",
+    "message": "Any exercise updates or changes considering my travel schedule?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-27 12:31",
+    "sender": "Rachel",
+    "message": "Biweekly plan refresh: Focus on upper body exercises at the hotel gym. Adjust as needed based on energy levels.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-27 13:09",
+    "sender": "Advik",
+    "message": "Hey Rohan, curious about your recent sleep quality. Have you noticed any impact from your new workout routine?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-27 13:54",
+    "sender": "Rohan",
+    "message": "Sleep's been decent, Advik. Still adjusting to the new Garmin data.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-27 15:05",
+    "sender": "Carla",
+    "message": "Don't forget to log your food intake while traveling! Helps with tracking and planning.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-27 15:42",
+    "sender": "Ruby",
+    "message": "Your flight from London to Seoul on Tuesday is confirmed. Jet lag adjustments sent separately.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-27 15:50",
+    "sender": "Advik",
+    "message": "Rohan, I noticed you're still averaging 30 minutes of meditation daily. How's that impacting your stress levels?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-27 17:03",
+    "sender": "Rohan",
+    "message": "Meditation's been helpful, Advik. Still working on consistency though.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-27 17:13",
+    "sender": "Dr. Warren",
+    "message": "Blood work results for Week 24 are in. Your doctor's appointment is scheduled for Week 36.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-27 17:47",
+    "sender": "Ruby",
+    "message": "You have a morning meeting on Wednesday. Allow some buffer time before it to account for potential travel disruptions.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-27 17:48",
+    "sender": "Rohan",
+    "message": "Any tips on managing meal prep during this trip? My cook can't keep up with my usual requests.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-06-28 08:12",
+    "sender": "Sarah",
+    "message": "Flight to Jakarta tomorrow, Rohan. Your biweekly exercise plan is updated on Trainerize.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-28 10:40",
+    "sender": "Rohan",
+    "message": "Thanks, Sarah! Any tips for managing jet lag?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-28 11:01",
+    "sender": "Ruby",
+    "message": "Consider a gentle morning run or yoga in your hotel room to adjust. We'll sync up with Dr. Warren's team for timezone adjustments.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-28 12:31",
+    "sender": "Advik",
+    "message": "I've added some travel-specific HRV data and sleep tracking insights. Let me know if you have any questions!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-28 13:15",
+    "sender": "Rohan",
+    "message": "Great, thanks! Can you help me optimize my nutrition plan for eating out during this trip?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-28 14:01",
+    "sender": "Carla",
+    "message": "Absolutely! I'll send over some tweaks for meal planning and snack ideas.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-28 14:05",
+    "sender": "Dr. Warren",
+    "message": "Rohan, your lab results from Week 24 are normal. Keep an eye on those inflammatory markers.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-28 14:09",
+    "sender": "Rohan",
+    "message": "Thanks, Doc! What's the best approach to staying active while traveling?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-28 15:28",
+    "sender": "Rachel",
+    "message": "Bodyweight exercises in your hotel room or a quick hotel gym workout can help. We'll review and adjust your plan accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-28 15:58",
+    "sender": "Rohan",
+    "message": "Cool, thanks for the advice!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-28 16:14",
+    "sender": "Ruby",
+    "message": "Rohan, just a heads up that you have a few curiosity questions pending. I'll summarize them shortly.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-28 16:48",
+    "sender": "Advik",
+    "message": "Hey Rohan! What's on your mind?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-29 08:58",
+    "sender": "Sarah",
+    "message": "Rohan, just a reminder that you're on a business trip this week. We'll adjust your schedule accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-29 09:33",
+    "sender": "Ruby",
+    "message": "Flight to UK tomorrow at 8 am SG time. Make sure to grab some rest before departing.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 10:54",
+    "sender": "Advik",
+    "message": "Jet lag alert! Your body clock might be off due to the timezone change. Keep an eye on your HRV and sleep quality.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-29 11:32",
+    "sender": "Carla",
+    "message": "Nutrition plan update: while traveling, focus on whole foods and snacks. Try to avoid processed or high-sugar options.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 12:15",
+    "sender": "Rohan",
+    "message": "Curiosity question 1: What are some effective ways to manage jet lag during long-haul flights?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 13:42",
+    "sender": "Dr. Warren",
+    "message": "Exercise update: given your travel schedule, we'll keep workouts brief and focused on hotel room exercises. Aim for 20-minute sessions.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 13:46",
+    "sender": "Ruby",
+    "message": "Schedule adjustment: we've added a virtual check-in for Friday at 9 am UK time. Make sure you're available.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-29 13:51",
+    "sender": "Rohan",
+    "message": "Curiosity question 2: Are there any specific foods or drinks that can help with jet lag recovery?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 14:42",
+    "sender": "Advik",
+    "message": "Data update: your Garmin HRV data suggests some signs of fatigue due to travel. Let's keep an eye on it and adjust your plan accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-29 16:20",
+    "sender": "Sarah",
+    "message": "Flight from UK to US tomorrow at 5 pm UK time. We'll review the schedule again after this leg.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 16:49",
+    "sender": "Rohan",
+    "message": "Curiosity question 3: Are there any specific stress-reduction techniques that can help during long flights?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-29 17:29",
+    "sender": "Carla",
+    "message": "Nutrition tweak: consider packing some healthy snacks like nuts or dried fruits for in-flight munching.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 08:23",
+    "sender": "Rohan",
+    "message": "I'm on a UK trip this week. Any travel tips?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 09:24",
+    "sender": "Ruby",
+    "message": "Rohan, adjust your sleep schedule before jet lag hits. Use melatonin supplements if needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-30 09:57",
+    "sender": "Advik",
+    "message": "Wearable data will be delayed due to timezone differences. Plan for Week 28 instead.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 10:00",
+    "sender": "Carla",
+    "message": "While in the UK, focus on whole foods and avoid processed snacks. Keep me posted on meals.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-30 11:41",
+    "sender": "Rohan",
+    "message": "What are some quick hotel workouts I can do?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 12:20",
+    "sender": "Rachel",
+    "message": "Try bodyweight exercises like push-ups, squats, and lunges. Adjust as needed based on fatigue.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-30 12:51",
+    "sender": "Ruby",
+    "message": "Your biweekly exercise plan has been updated with modified hotel workout routines for Week 28.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 12:51",
+    "sender": "Rohan",
+    "message": "How can I maintain my nutrition goals during travel? Any snack tips?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 13:07",
+    "sender": "Carla",
+    "message": "Pack nuts, seeds, and dried fruits for healthy snacking. Avoid heavy meals before bedtime.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-30 13:09",
+    "sender": "Dr. Warren",
+    "message": "Monitor your blood pressure and stress levels closely due to timezone changes.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-30 15:47",
+    "sender": "Advik",
+    "message": "Your HRV data might fluctuate with travel and jet lag. Keep an eye on it and adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-30 15:54",
+    "sender": "Rohan",
+    "message": "What are some ways to manage stress during business trips?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-30 16:09",
+    "sender": "Neel",
+    "message": "Focus on self-care, prioritize sleep, and take breaks. Utilize hotel gym or meditation apps if possible.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-30 16:45",
+    "sender": "Ruby",
+    "message": "Your schedule has been updated for your UK trip. Ensure you have time for meals and workouts.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-30 17:27",
+    "sender": "Rohan",
+    "message": "I've had trouble sticking to my plan recently. What are some tips to get back on track?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-06-30 17:29",
+    "sender": "Advik",
+    "message": "Analyze your wearable data, identify patterns, and adjust your goals as needed. Don't be too hard on yourself.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-30 17:59",
+    "sender": "Carla",
+    "message": "It's normal to have setbacks. Focus on progress, not perfection. Let me know if you need any tweaks.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-01 08:03",
+    "sender": "Sarah",
+    "message": "Confirming travel itinerary for UK trip. Flights on Thu and Fri.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 08:03",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! What's the hotel workout routine looking like?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 08:14",
+    "sender": "Ruby",
+    "message": "I've updated your exercise plan with hotel gym options. Review attachment.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 08:32",
+    "sender": "Carla",
+    "message": "Considering meal planning for flights and hotel stays. Need food log updates.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 08:58",
+    "sender": "Rohan",
+    "message": "Ah, great Carla! Can you include some easy-to-carry snacks too?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-01 09:39",
+    "sender": "Dr. Warren",
+    "message": "With jet lag adjustments, we'll reassess sleep quality in 3 days. No rush!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-01 10:03",
+    "sender": "Advik",
+    "message": "I've updated HRV tracking to account for timezone changes. New data is attached.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-01 11:05",
+    "sender": "Sarah",
+    "message": "Hotel gym hours are 6-9 AM and 5-7 PM. Schedule accordingly.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 11:14",
+    "sender": "Rohan",
+    "message": "Got it! Thanks Sarah. What about nutrition during travel? Any tweaks?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 13:03",
+    "sender": "Carla",
+    "message": "Yes, Rohan! For flights, focus on protein-rich snacks like nuts or jerky. Avoid heavy meals.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 14:00",
+    "sender": "Advik",
+    "message": "Curiosity question: Does frequent travel impact stress levels? Your thoughts?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 14:21",
+    "sender": "Rohan",
+    "message": "Good point Advik. Travel does increase my stress levels. Will need some relaxation techniques.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 15:00",
+    "sender": "Ruby",
+    "message": "I've added a 10-min morning meditation routine to your exercise plan for hotel stays.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 15:13",
+    "sender": "Dr. Warren",
+    "message": "Keep in mind that high-stress periods may affect BP and cholesterol markers. Monitor closely.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-01 15:51",
+    "sender": "Sarah",
+    "message": "Your PA will send you a reminder to update your food log daily during travel. Easy!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-01 17:35",
+    "sender": "Rohan",
+    "message": "Got it! Thanks team. Looking forward to a productive trip.",
+    "event": "update"
+  }
+]

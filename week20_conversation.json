@@ -1,0 +1,668 @@
+[
+  {
+    "timestamp": "2025-05-28 08:14",
+    "sender": "Rohan",
+    "message": "What's our plan for Week 24? Lab prep and fasting?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-28 08:17",
+    "sender": "Ruby",
+    "message": "Rohan, confirm your availability for Week 24 diagnostic panel. We'll schedule a morning appointment.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-28 08:25",
+    "sender": "Sarah",
+    "message": "Confirmed with Dr. Warren; all set for Week 24 lab test. Fasting starts at 8 pm SGT on the eve of the test.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-28 09:25",
+    "sender": "Rohan",
+    "message": "Got it! Thanks, Sarah. How's my stress level looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-28 09:27",
+    "sender": "Carla",
+    "message": "Your HRV scores are stable this week. Still trending slightly high but manageable. Keep those morning runs up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-28 09:48",
+    "sender": "Advik",
+    "message": "Sleep quality is decent, Rohan. Average duration 7.5 hours with some variance. We'll review your Garmin data next bi-weekly check-in.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-28 10:13",
+    "sender": "Rohan",
+    "message": "Good to know. What's the plan for exercise updates this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-28 11:16",
+    "sender": "Rachel",
+    "message": "Time to mix things up! New strength exercises will be shared on Friday. Focus on compound movements and progressive overload.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-28 11:46",
+    "sender": "Rohan",
+    "message": "Alright, got it. I have a question - Can we incorporate more HIIT workouts into my routine?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-28 12:33",
+    "sender": "Ruby",
+    "message": "Rohan, Advik is reviewing your HRV data to determine the best approach for incorporating HIIT.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-28 12:56",
+    "sender": "Advik",
+    "message": "Hi Rohan! Based on your HRV, I recommend starting with 1-2 HIIT sessions per week. We'll monitor your progress and adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-28 13:14",
+    "sender": "Rohan",
+    "message": "Cool, thanks! What's my stress level looking like this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-28 14:06",
+    "sender": "Carla",
+    "message": "Your cortisol levels are trending slightly higher than usual, but still within a healthy range. Keep an eye on those morning runs!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-28 14:28",
+    "sender": "Sarah",
+    "message": "Rohan, don't forget to schedule your next quarterly deep dive with Dr. Warren for Week 25.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-28 15:13",
+    "sender": "Rohan",
+    "message": "Thanks for the reminder, Sarah!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-28 15:35",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-28 15:45",
+    "sender": "Rohan",
+    "message": "Okay.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-28 17:02",
+    "sender": "Rohan",
+    "message": "Okay.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-29 08:20",
+    "sender": "Ruby",
+    "message": "Reminder to start lab prep for Week 24 diagnostic panel. Follow-up with Dr. Warren soon.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-29 08:36",
+    "sender": "Sarah",
+    "message": "Rohan, your schedule for this week looks good! Morning routine and occasional runs as planned.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-29 08:58",
+    "sender": "Rohan",
+    "message": "What's the latest on my exercise program? Any updates?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-29 10:56",
+    "sender": "Advik",
+    "message": "Biweekly exercise update: focus on strength training this cycle. Adjust weights based on HRV data.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-29 11:30",
+    "sender": "Carla",
+    "message": "Nutrition tweak alert! CGM suggests slightly adjusting your macros for better glucose control.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-29 11:41",
+    "sender": "Ruby",
+    "message": "Don't forget to schedule a call with Dr. Warren by the end of this week for lab prep guidance.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-29 12:48",
+    "sender": "Rohan",
+    "message": "What's my stress and sleep profile looking like lately?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-29 14:07",
+    "sender": "Advik",
+    "message": "Garmin HRV shows moderate stress levels, but overall recovery is decent. Sleep quality has improved slightly.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-29 14:11",
+    "sender": "Carla",
+    "message": "Your food log looks good! Keep up the healthy habits.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-29 14:17",
+    "sender": "Rohan",
+    "message": "Any suggestions for reducing stress during travel? My next trip is coming up soon.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-29 14:17",
+    "sender": "Ruby",
+    "message": "Neel and I can discuss strategies to help with travel stress. Let's schedule a call later this week.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-29 15:11",
+    "sender": "Rohan",
+    "message": "What are my top 5 curiosity questions to explore further?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-29 15:21",
+    "sender": "Advik",
+    "message": "Curiosity questions: 1) How does HRV impact exercise performance? 2) Can we tweak nutrition for better sleep quality? 3) How do I optimize recovery during intense training?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-29 16:30",
+    "sender": "Ruby",
+    "message": "Good questions, Rohan! We'll discuss these in our next call.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-29 16:44",
+    "sender": "Rohan",
+    "message": "Any plan adjustments required due to my ~50% adherence so far?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-29 17:39",
+    "sender": "Advik",
+    "message": "A bit of adjustment needed. Focus on consistency and minor tweaks will help you get back on track.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-29 17:45",
+    "sender": "Dr. Warren",
+    "message": "Remember to start fasting for your Week 24 diagnostic panel prep, Rohan. Schedule a follow-up call with me soon.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-30 09:24",
+    "sender": "Rohan",
+    "message": "What's the plan for my upcoming diagnostic panel? Timing and logistics?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-30 09:27",
+    "sender": "Ruby",
+    "message": "Rohan, don't forget! Your lab prep is due on June 10. Fasting from 8 PM June 9 to test time. We'll discuss travel arrangements soon.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-30 09:57",
+    "sender": "Rohan",
+    "message": "Got it! I'll start preparing my fasting schedule.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-30 10:47",
+    "sender": "Advik",
+    "message": "Hey Rohan, your sleep quality has been improving lately. Keep up the good work!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-30 11:01",
+    "sender": "Rohan",
+    "message": "Thanks, Advik! How's my stress level looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-30 11:02",
+    "sender": "Advik",
+    "message": "Your HRV is trending upward, suggesting reduced stress. Keep an eye on that and adjust your breathing exercises if needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-30 11:06",
+    "sender": "Carla",
+    "message": "Hey Rohan, let's tweak your nutrition plan. We can add more omega-3 rich foods to support heart health.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-30 11:20",
+    "sender": "Rohan",
+    "message": "Sounds good! What specific food suggestions do you have?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-05-30 13:21",
+    "sender": "Carla",
+    "message": "Try incorporating fatty fish like salmon or sardines into your meals.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-30 13:31",
+    "sender": "Ruby",
+    "message": "Rohan, don't forget our biweekly exercise update is due this week. Please log your workouts and share the data with me.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-30 15:38",
+    "sender": "Rohan",
+    "message": "Will do, Ruby. I'll make sure to track my runs and strength training sessions.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-30 16:05",
+    "sender": "Rachel",
+    "message": "Hey Rohan, how's your shoulder feeling after that last workout?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-30 16:14",
+    "sender": "Rohan",
+    "message": "It's a bit sore, but manageable. How can I adjust my exercises for better recovery?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-30 16:52",
+    "sender": "Rachel",
+    "message": "We can modify the strength training routine to focus on lower-impact exercises. Let me know when you're ready to discuss specifics.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-30 17:06",
+    "sender": "Neel",
+    "message": "Rohan, how's your overall plan adherence looking this week? Any adjustments needed?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-30 17:46",
+    "sender": "Rohan",
+    "message": "Honestly, it's been a bit challenging with work and travel. I'm at about 40% adherence so far.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-30 17:56",
+    "sender": "Neel",
+    "message": "Let's review your goals and see if we can make some adjustments to get you back on track. Shall we schedule a call for Thursday?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-31 08:39",
+    "sender": "Rohan",
+    "message": "Hi team, what's the plan for Week 24 diagnostic panel? Need to prep lab tests?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-31 09:51",
+    "sender": "Ruby",
+    "message": "Rohan, you're scheduled for Week 24 diagnostic panel. Please fast from midnight and arrive at clinic by 8 AM SGT on June 14th.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-31 12:42",
+    "sender": "Advik",
+    "message": "Hey Rohan, I've updated your exercise routine biweekly. Focus on strength training this week with a goal of 3 sets x 10 reps.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-31 12:47",
+    "sender": "Carla",
+    "message": "Nutrition update: let's tweak your macros for better sleep quality. More complex carbs and tryptophan-rich foods for tonight's dinner?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-31 12:55",
+    "sender": "Sarah",
+    "message": "Reminder to schedule a call with Dr. Warren before the Week 24 diagnostic panel. Confirm time slots?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-31 13:12",
+    "sender": "Rohan",
+    "message": "Hey Advik, what's my stress level looking like this week? Garmin HRV data shows...?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-31 13:38",
+    "sender": "Advik",
+    "message": "Rohan, your stress levels are moderate this week. Let's discuss ways to optimize sleep quality for better recovery.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-31 14:18",
+    "sender": "Rohan",
+    "message": "Hey team, I've got a curiosity question - is there any research on using HRV to predict cognitive performance?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-31 15:16",
+    "sender": "Dr. Warren",
+    "message": "Great question, Rohan! We'll review relevant studies and explore potential applications in our next call.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-31 17:15",
+    "sender": "Rohan",
+    "message": "Thanks, Doc! Ruby, can we schedule that call for Wednesday, 10 AM SGT?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-31 17:41",
+    "sender": "Ruby",
+    "message": "Roger that, Rohan! I've booked the call. See you then!",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-31 17:46",
+    "sender": "Carla",
+    "message": "Quick reminder to log your food intake today. We'll review your CGM data and make adjustments as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-01 08:34",
+    "sender": "Rohan",
+    "message": "Any updates on my blood work lab prep?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-01 08:57",
+    "sender": "Ruby",
+    "message": "Your Week 24 diagnostic panel is just around the corner. Please fast from midnight tomorrow and arrive at the clinic by 8 am SGT on Saturday.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-01 09:42",
+    "sender": "Sarah",
+    "message": "Rohan, you have a virtual meeting with Neel scheduled for Thursday at 10 am SGT. Don't forget!",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-01 09:49",
+    "sender": "Advik",
+    "message": "I've analyzed your recent HRV data. It's still high, but trending downward. Keep those morning runs going!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-01 10:02",
+    "sender": "Carla",
+    "message": "Your nutrition plan is looking good! I'll make some tweaks to balance out your macros.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-01 10:25",
+    "sender": "Rohan",
+    "message": "What are the tweaks?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-01 10:33",
+    "sender": "Carla",
+    "message": "Just adjusting your carb intake for better glucose control. Nothing drastic!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-01 10:51",
+    "sender": "Ruby",
+    "message": "Don't forget to send in your stress and sleep data from last week by tomorrow morning, Rohan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-01 11:43",
+    "sender": "Dr. Warren",
+    "message": "Good news! Your latest blood work shows improvements in LDL cholesterol. Keep up the good work!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-01 12:03",
+    "sender": "Rohan",
+    "message": "What's my current exercise plan looking like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-01 12:24",
+    "sender": "Rachel",
+    "message": "You're on track for biweekly updates. I'll send over the revised program this weekend.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-01 13:36",
+    "sender": "Advik",
+    "message": "I have some questions about your sleep quality. Can we discuss at our next meeting, Neel?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-01 14:32",
+    "sender": "Neel",
+    "message": "Absolutely, Advik! Let's schedule that for Thursday as well.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-01 15:40",
+    "sender": "Rohan",
+    "message": "Hey Sarah, can you reschedule my Friday call with Carla to Monday instead?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-01 15:45",
+    "sender": "Sarah",
+    "message": "Already done, Rohan! You're all set for Monday.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-06-01 16:24",
+    "sender": "Carla",
+    "message": "Remember to bring in your Garmin data and we'll review together on Monday.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-01 17:18",
+    "sender": "Ruby",
+    "message": "Rohan, please confirm your availability for the upcoming Week 24 diagnostic panel. I need a heads-up by tomorrow morning.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-01 17:22",
+    "sender": "Rohan",
+    "message": "Will do!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-02 08:13",
+    "sender": "Sarah",
+    "message": "Reminder to schedule Week 24 diagnostic panel for June 15th. Lab prep and fasting instructions will be shared soon.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-02 08:16",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! What's the plan for lab prep?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-02 08:23",
+    "sender": "Ruby",
+    "message": "For lab prep, please ensure you complete a 12-hour fasting period from midnight on June 14th. We'll send detailed instructions later.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-02 08:37",
+    "sender": "Advik",
+    "message": "Rohan, how's your sleep quality been lately? Any changes in Garmin data?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-02 08:58",
+    "sender": "Rohan",
+    "message": "Been okay, Advik. No major changes.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-02 09:35",
+    "sender": "Carla",
+    "message": "Let's review your nutrition plan. Are you experiencing any difficulties or cravings we can address?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-02 10:46",
+    "sender": "Rohan",
+    "message": "Just a bit of sugar craving after dinner. Nothing too out of control.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-02 11:17",
+    "sender": "Rachel",
+    "message": "Remember to stretch before and after workouts! Your physiotherapy program is due for an update.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-02 11:47",
+    "sender": "Ruby",
+    "message": "Reminder that biweekly exercise updates will be shared on June 8th and 22nd, respectively.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-06-02 11:51",
+    "sender": "Neel",
+    "message": "Rohan, your stress levels seem a bit high lately. What's been causing this?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-02 13:54",
+    "sender": "Rohan",
+    "message": "Just a lot of travel and work stress, to be honest.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-02 14:26",
+    "sender": "Dr. Warren",
+    "message": "Keep an eye on your blood pressure, Rohan. It seems slightly elevated. We'll discuss further after the diagnostic panel results.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-02 14:42",
+    "sender": "Rohan",
+    "message": "Got it, Doc! Thanks for the heads up.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-02 15:06",
+    "sender": "Carla",
+    "message": "Let's make some adjustments to your nutrition plan based on recent data. I'll share the updated plan later this week.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-02 15:35",
+    "sender": "Sarah",
+    "message": "Don't forget, Rohan, you have a meeting scheduled with Advik on June 3rd at 9:00 AM SGT.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-06-02 16:22",
+    "sender": "Rohan",
+    "message": "Thanks for the reminder, Sarah! What's the agenda for our meeting?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-06-02 17:11",
+    "sender": "Advik",
+    "message": "We'll be discussing your wearable data and exploring ways to improve your stress resilience. See you then!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-03 09:33",
+    "sender": "Sarah",
+    "message": "Your Week 24 diagnostic panel is approaching. Don't forget to prep your labs by fasting overnight and arriving early.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-06-03 09:45",
+    "sender": "Rohan",
+    "message": "How's my exercise routine looking for this week? Need a biweekly update.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-03 10:53",
+    "sender": "Ruby",
+    "message": "Exercise updated! You're good to go with Trainerize and MyFitnessPal. Remember to log those workouts, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-03 11:21",
+    "sender": "Advik",
+    "message": "Stress levels are still moderate. HRV looks decent, but sleep quality could be better. We'll review tonight's Garmin data.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-03 11:41",
+    "sender": "Rohan",
+    "message": "What about nutrition? Any tweaks for this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-03 12:30",
+    "sender": "Carla",
+    "message": "Small adjustment: reduce breakfast carb intake by 25%. Try to log your food diary consistently.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-03 13:02",
+    "sender": "Rohan",
+    "message": "Got it. And what about stress monitoring?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-03 15:50",
+    "sender": "Rachel",
+    "message": "Remember, Rohan, we're still tracking those daily stretches and mobility exercises. Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-06-03 15:57",
+    "sender": "Rohan",
+    "message": "How's my HRV looking today? I'm feeling a bit anxious.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-06-03 17:01",
+    "sender": "Ruby",
+    "message": "Your current HRV is 67. We'll review tonight's data to adjust the plan as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-06-03 17:21",
+    "sender": "Sarah",
+    "message": "Don't forget to schedule your upcoming travel in July for the UK trip. We need to finalize those appointments, Rohan!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-06-03 17:29",
+    "sender": "Rohan",
+    "message": "Can we discuss some curiosity questions? What's going on with my cholesterol numbers?",
+    "event": "question"
+  }
+]

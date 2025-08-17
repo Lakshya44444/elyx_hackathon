@@ -1,0 +1,674 @@
+[
+  {
+    "timestamp": "2025-05-14 08:44",
+    "sender": "Ruby",
+    "message": "Exercise updates this week! Adjusted routine considering travel and jet lag.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-14 09:50",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! I'll make sure to stay on track. Any specific changes?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-14 10:03",
+    "sender": "Carla",
+    "message": "No changes to nutrition plan, but adjust hydration levels for travel.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-14 10:31",
+    "sender": "Advik",
+    "message": "HRV data shows slight increase in stress levels. Keep an eye out for fatigue.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-14 11:24",
+    "sender": "Sarah",
+    "message": "Travel schedule looks busy this week. I've got your appointments and calls covered.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-14 12:26",
+    "sender": "Ruby",
+    "message": "Reminder to prioritize morning routines amidst time zone shifts.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-14 12:27",
+    "sender": "Rohan",
+    "message": "Got it! Will keep my 20-minute routine consistent.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-14 12:34",
+    "sender": "Advik",
+    "message": "Sleep quality might suffer due to jet lag. Monitor Garmin data closely.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-14 12:56",
+    "sender": "Carla",
+    "message": "Supplement reminders sent. Don't forget to take them!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-14 13:35",
+    "sender": "Dr. Warren",
+    "message": "No medical updates this week, but we'll reassess after diagnostic test at Week 24.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-14 13:55",
+    "sender": "Ruby",
+    "message": "Curiosity questions are welcome! Aim for ~5 this week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-14 14:42",
+    "sender": "Rohan",
+    "message": "Will keep that in mind. What topics should I explore?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-14 15:01",
+    "sender": "Advik",
+    "message": "Wearable data analysis shows potential sleep quality issues. We can discuss next steps.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-14 16:43",
+    "sender": "Sarah",
+    "message": "Travel logistics updated. All set for your trip!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-14 16:52",
+    "sender": "Neel",
+    "message": "Reviewing long-term goals, considering travel adjustments. No major changes needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-14 17:01",
+    "sender": "Ruby",
+    "message": "Adherence levels remain 50% this week. Let's adjust plans accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-14 17:58",
+    "sender": "Rohan",
+    "message": "Okay, got it! Looking forward to catching up after my trip.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 08:17",
+    "sender": "Rohan",
+    "message": "Hey Sarah, what's the exercise plan this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-15 08:23",
+    "sender": "Sarah",
+    "message": "Hi Rohan! This week's update is on biweekly cadence. Let me send you the new routine.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 09:12",
+    "sender": "Ruby",
+    "message": "Exercise update sent! Remember to adjust your Garmin accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-15 09:15",
+    "sender": "Advik",
+    "message": "Curiosity questions are welcome this week. I'll keep an eye out for 5+ questions from you, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 09:40",
+    "sender": "Rohan",
+    "message": "Thanks Advik! I might have some questions later.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 09:41",
+    "sender": "Carla",
+    "message": "Just a reminder that no diagnostic test panel is scheduled for this week. Next one's at Week 24.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-15 09:50",
+    "sender": "Dr. Warren",
+    "message": "Correct Carla! We're keeping things steady until then.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 09:56",
+    "sender": "Ruby",
+    "message": "Travel logistics, Rohan? Which time zone are you in today?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-15 11:26",
+    "sender": "Rohan",
+    "message": "Hi Ruby! I'm currently in Jakarta time zone. Got a meeting later and need to adjust my schedule.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-15 11:27",
+    "sender": "Sarah",
+    "message": "Jet lag alert! Remember to take it easy tonight and get plenty of rest tomorrow.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-15 13:18",
+    "sender": "Advik",
+    "message": "Don't forget to log your Garmin data, Rohan. We'll review it next week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 13:33",
+    "sender": "Rohan",
+    "message": "Will do Advik!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-15 14:37",
+    "sender": "Carla",
+    "message": "Stick to your exercise routine as much as possible this week, Rohan. You're traveling but still need to move.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-15 15:04",
+    "sender": "Ruby",
+    "message": "Any questions or concerns? Feel free to reach out anytime, Rohan.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-15 15:46",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! I'll keep you posted on any changes to my schedule.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-15 17:15",
+    "sender": "Dr. Warren",
+    "message": "Remember to stay hydrated and take breaks during your travels, Rohan.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-15 17:42",
+    "sender": "Advik",
+    "message": "Don't stress about the jet lag, Rohan. We're here to support you!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-15 17:52",
+    "sender": "Sarah",
+    "message": "Let me know if anything changes with your travel plans, Rohan. I'll help coordinate.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-16 09:50",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Exercise update this week: focus on strength training, try to squeeze in a quick 20-min session whenever you can.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 10:17",
+    "sender": "Rohan",
+    "message": "Got it, thanks Ruby!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 10:21",
+    "sender": "Sarah",
+    "message": "Hi Rohan, just a reminder that your schedule is packed with meetings and calls this week. Try to fit in some exercise when you can.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-16 10:42",
+    "sender": "Advik",
+    "message": "Hey Rohan! How's your sleep been? Still adjusting from the time zone shift?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-16 11:16",
+    "sender": "Rohan",
+    "message": "Yeah, still getting used to it. Thanks for asking Advik!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 11:32",
+    "sender": "Carla",
+    "message": "Morning Rohan! Don't forget to track your food intake and water consumption this week. You're doing great so far!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 11:58",
+    "sender": "Advik",
+    "message": "Rohan, I noticed you've been asking a lot of curiosity questions lately. Keep 'em coming! This week, I can answer 2-3 more.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 13:06",
+    "sender": "Rohan",
+    "message": "Awesome, thanks Advik!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 14:39",
+    "sender": "Dr. Warren",
+    "message": "Hey Rohan, just a heads up that we're not due for a diagnostic test this week. Next one's in Week 24.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-16 14:45",
+    "sender": "Ruby",
+    "message": "Good reminder, Doc! Just to confirm, our meeting on Friday is still on?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-05-16 14:56",
+    "sender": "Rohan",
+    "message": "Yep, looking forward to it!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 15:13",
+    "sender": "Neel",
+    "message": "Hi Rohan, I wanted to check in and see how you're feeling about the travel schedule. Any adjustments needed?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-16 15:30",
+    "sender": "Rohan",
+    "message": "Yeah, a bit overwhelmed with meetings this week. But I'll manage.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 16:34",
+    "sender": "Sarah",
+    "message": "Don't forget, Rohan, your jet lag will take some time to adjust. Try to prioritize self-care this week.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-16 17:18",
+    "sender": "Advik",
+    "message": "Hey Rohan! Your HRV data looks good so far. Keep the consistency up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 17:44",
+    "sender": "Rohan",
+    "message": "Thanks Advik! Trying my best.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-16 17:50",
+    "sender": "Carla",
+    "message": "Good job on the strength training, Rohan! Remember to stretch afterwards and recover well.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-17 08:02",
+    "sender": "Rohan",
+    "message": "Exercise update this week please?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-17 08:07",
+    "sender": "Sarah",
+    "message": "Got it! Updating your routine. Expect new exercises by EOD today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-17 09:47",
+    "sender": "Advik",
+    "message": "Rohan, I've been analyzing your HRV data. Jet lag might affect recovery. Take it easy tonight, okay?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-17 10:02",
+    "sender": "Rohan",
+    "message": "Thanks Advik! Appreciate the heads up.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-17 11:07",
+    "sender": "Ruby",
+    "message": "Travel logistics reminder: morning 20-min routine is cancelled for this week. Morning runs will resume next week.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-17 14:17",
+    "sender": "Sarah",
+    "message": "Received! Will update your schedule accordingly.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-17 15:18",
+    "sender": "Carla",
+    "message": "Nutrition plan adjustments due to travel and jet lag. Expect new meal plans by EOD today.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-17 15:45",
+    "sender": "Rohan",
+    "message": "Curious about the impact of travel on sleep quality. Any insights?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-17 15:49",
+    "sender": "Advik",
+    "message": "Short-term disruptions, but long-term effects minimal. Just remember to prioritize sleep.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-17 16:11",
+    "sender": "Neel",
+    "message": "Remember, no diagnostic test this week. Next one at Week 24.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-17 16:11",
+    "sender": "Ruby",
+    "message": "Flight schedule changed. New arrival time is tomorrow morning. Adjust your morning routine accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-17 16:25",
+    "sender": "Sarah",
+    "message": "Got it! Updating your schedule now.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-17 16:25",
+    "sender": "Rohan",
+    "message": "Any tips on managing jet lag?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-17 16:32",
+    "sender": "Dr. Warren",
+    "message": "Try to stick to your usual sleep schedule as much as possible. Avoid caffeine and electronics before bedtime.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-17 16:52",
+    "sender": "Carla",
+    "message": "Supplement adjustments for travel. Expect new recommendations by EOD today.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-17 17:14",
+    "sender": "Advik",
+    "message": "HRV data suggests you're experiencing some stress due to travel. Take time to relax tonight, okay?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-17 17:20",
+    "sender": "Rohan",
+    "message": "Will do! Thanks team!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-18 08:26",
+    "sender": "Rohan",
+    "message": "Exercise update this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-18 09:33",
+    "sender": "Ruby",
+    "message": "Biweekly cadence kicks in! New exercises released.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-18 09:56",
+    "sender": "Rohan",
+    "message": "Cool, thanks Ruby! Any changes to plans?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-18 10:11",
+    "sender": "Ruby",
+    "message": "Some adjustments needed due to adherence ~50%. Let's review together.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-18 12:29",
+    "sender": "Sarah",
+    "message": "Rohan, I've scheduled a quick call for tonight at 9 PM your time. Travel & jet lag considerations.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-18 12:50",
+    "sender": "Rohan",
+    "message": "Sounds good Sarah. What's the purpose of the call?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-18 13:00",
+    "sender": "Neel",
+    "message": "We'll discuss exercise updates and prep you for next week's diagnostic test (Week 24).",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-18 14:25",
+    "sender": "Rohan",
+    "message": "Got it! Any curiosity questions I can ask this week, Ruby?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-18 14:53",
+    "sender": "Ruby",
+    "message": "Go ahead with ~5 questions naturally across the week. Keep 'em coming!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-18 15:40",
+    "sender": "Advik",
+    "message": "Rohan, HRV data suggests some sleep quality fluctuations. Let's monitor & adjust.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-18 15:42",
+    "sender": "Rohan",
+    "message": "Understood Advik. Thanks for the heads-up.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-18 15:57",
+    "sender": "Carla",
+    "message": "Nutrition plans remain unchanged this week. Focus on hydration during travel.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-18 16:07",
+    "sender": "Dr. Warren",
+    "message": "Rohan, your blood markers are stable. Continue the good work!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 08:16",
+    "sender": "Rohan",
+    "message": "Traveling this week, got a meeting in London tonight.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-19 08:46",
+    "sender": "Sarah",
+    "message": "Got it, Rohan! I've updated your schedule accordingly.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-19 09:08",
+    "sender": "Ruby",
+    "message": "Your exercise routine remains the same for this week, with updates to come next biweekly cycle.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 09:19",
+    "sender": "Advik",
+    "message": "Hey Rohan, keep an eye on your HRV and Garmin sleep data during travel. Jet lag might affect them.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-19 09:43",
+    "sender": "Carla",
+    "message": "Just a heads up that we're reviewing your nutrition plan this week to account for potential changes in your routine due to travel.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-19 10:55",
+    "sender": "Rachel",
+    "message": "Your strength and mobility exercises will be adjusted based on your progress. No changes this week, though.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-19 11:34",
+    "sender": "Dr. Warren",
+    "message": "Rohan, remember that you still have a pending diagnostic test at Week 24. Don't worry about it for now.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-19 13:08",
+    "sender": "Rohan",
+    "message": "Thanks, Doc! Will keep in mind.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 13:15",
+    "sender": "Sarah",
+    "message": "I've scheduled some virtual check-ins with the team while you're away. You won't miss anything important.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-19 13:18",
+    "sender": "Ruby",
+    "message": "Curiosity questions are welcome this week! Feel free to ask ~5 questions and we'll address them as needed.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 15:10",
+    "sender": "Neel",
+    "message": "Rohan, how's your current adherence level looking? We might need to make some adjustments to your plan.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-19 15:29",
+    "sender": "Rohan",
+    "message": "Adherence is around 50%. I know I've been slacking a bit. Help me get back on track!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 15:42",
+    "sender": "Advik",
+    "message": "HRV data looks good so far, but we'll keep an eye on it during travel. Any changes will be reflected in your reports.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-19 15:52",
+    "sender": "Carla",
+    "message": "Nutrition plan update: same for now. Just be mindful of meal times and hydration with the time zone shift.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 15:54",
+    "sender": "Ruby",
+    "message": "Exercise updates are coming next biweekly cycle. Stay the course for now!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 15:59",
+    "sender": "Sarah",
+    "message": "I've got your back, Rohan! Don't worry about anything while you're away. We'll handle everything.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-19 16:37",
+    "sender": "Dr. Warren",
+    "message": "Remember to take care of yourself during travel. Jet lag can be a real challenge.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-20 09:09",
+    "sender": "Sarah",
+    "message": "Rohan, exercise update for this week. New routine starts today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-20 09:17",
+    "sender": "Ruby",
+    "message": "Reminder to adjust sleep schedule due to travel and jet lag.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-20 09:27",
+    "sender": "Rohan",
+    "message": "Thanks, Ruby. Also, can I get some curiosity questions for this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-05-20 09:54",
+    "sender": "Advik",
+    "message": "Here's one: How does my HRV change during morning runs? Can you explore that?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-20 10:09",
+    "sender": "Carla",
+    "message": "Next question: What are the best foods to combat jet lag?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-20 10:55",
+    "sender": "Ruby",
+    "message": "Question 3: What are some quick stress-reducing techniques for travel days?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-05-20 11:27",
+    "sender": "Dr. Warren",
+    "message": "Adherence update: we're at 55% so far this week. Let's review plans.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-20 12:41",
+    "sender": "Sarah",
+    "message": "Rohan, diagnostic test panel is not scheduled for this week. Next one will be at Week 24.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-05-20 12:52",
+    "sender": "Rohan",
+    "message": "Got it. Thanks, Sarah.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-05-20 15:20",
+    "sender": "Advik",
+    "message": "Another question: Can you explore the impact of timezone changes on my body?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-20 15:27",
+    "sender": "Carla",
+    "message": "How do I adjust my nutrition plan during travel days?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-05-20 15:58",
+    "sender": "Ruby",
+    "message": "Reminder to schedule virtual check-in with me later this week for updates.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-05-20 16:00",
+    "sender": "Dr. Warren",
+    "message": "As we near the end of the week, let's focus on maintaining healthy habits despite travel.",
+    "event": "travel"
+  }
+]

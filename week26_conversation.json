@@ -1,0 +1,188 @@
+[
+  {
+    "timestamp": "2025-07-18 08:14",
+    "sender": "Sarah",
+    "message": "Hey Rohan! Flight delayed till tonight, no worries about breakfast meeting tomorrow. See you at 9 am.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-18 08:21",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! Stuck in traffic now.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-18 09:44",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Just checking in. Any issues with the new exercise plan?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-07-18 10:17",
+    "sender": "Rohan",
+    "message": "So far so good. Missing a few details on stretching. Can you send me some tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-07-18 10:50",
+    "sender": "Advik",
+    "message": "Got it, Rohan! I'll share some stretches. Remember to stay hydrated!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-18 11:52",
+    "sender": "Sarah",
+    "message": "Remind me, Advik, please.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-07-18 12:39",
+    "sender": "Advik",
+    "message": "Done, Sarah!",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-07-18 12:41",
+    "sender": "Rohan",
+    "message": "Hey team! What's the deal with fasting and inflammation? Is there a link?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-18 14:11",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Fasting can help reduce systemic inflammation, but individual results vary. Consult your doc before starting any new program!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-07-18 14:58",
+    "sender": "Rohan",
+    "message": "Got it, thanks Doc! And what about genetics and supplement effects?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-18 15:01",
+    "sender": "Carla",
+    "message": "Hey Rohan! Genetics play a role in how our bodies respond to supplements. Always consult with a healthcare professional before adding anything new.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-18 15:48",
+    "sender": "Rohan",
+    "message": "Thanks Carla! Any updates on the plan since I've been away?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-18 16:05",
+    "sender": "Ruby",
+    "message": "Hey Rohan! You're doing great, but only following about 50% of the plan. Let's adapt and make it more realistic for your travel schedule.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-07-18 16:24",
+    "sender": "Rohan",
+    "message": "That sounds good. How can we adjust?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-18 16:38",
+    "sender": "Sarah",
+    "message": "We can skip a few exercises or reduce intensity. What do you think?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-18 17:01",
+    "sender": "Rohan",
+    "message": "Sounds like a plan. Thanks team!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-20 09:02",
+    "sender": "Rohan",
+    "message": "Hey Sarah, just landed in HK. Delayed by 2 hours due to weather. Can we reschedule today's call?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-07-20 09:35",
+    "sender": "Sarah",
+    "message": "Sorry to hear that! I've sent a new calendar invite for tomorrow at 8 am HK time.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-07-20 09:39",
+    "sender": "Ruby",
+    "message": "Hey Rohan, how's the exercise plan going? Any challenges or questions so far?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-20 10:50",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! Missing my gym routine. How do I modify exercises with limited weights on this trip?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-20 12:25",
+    "sender": "Ruby",
+    "message": "Great question! You can try bodyweight exercises or use resistance bands. We'll send some modifications later today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-20 13:17",
+    "sender": "Advik",
+    "message": "Hey Rohan, how's your fasting experience been so far? Any issues or concerns?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-20 14:12",
+    "sender": "Rohan",
+    "message": "Hi Advik, I'm doing okay but curious about inflammation and genetics. Do you guys have any insights?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-20 14:35",
+    "sender": "Advik",
+    "message": "Good question! We can discuss that further tomorrow during our call. Looking forward to it!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-20 15:03",
+    "sender": "Rohan",
+    "message": "Hey Sarah, I've been following the exercise plan ~50%. How do we adjust for this trip?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-20 15:05",
+    "sender": "Sarah",
+    "message": "Let's review your progress and adapt the plan accordingly. I'll send a revised schedule later today.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-07-20 15:19",
+    "sender": "Carla",
+    "message": "Rohan, what are your top concerns about supplements? Do you have any questions?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-20 16:02",
+    "sender": "Rohan",
+    "message": "Hi Carla! What are the must-haves in terms of vitamins and minerals for my health goals?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-20 16:06",
+    "sender": "Carla",
+    "message": "Great question! We can discuss that during our call tomorrow. Looking forward to it!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-20 16:53",
+    "sender": "Rachel",
+    "message": "Rohan, I saw your concern about inflammation. How do you think genetics play a role in it?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-20 17:53",
+    "sender": "Rohan",
+    "message": "Hey Rachel, thanks for the context! Would love to hear more about how genetics affect inflammation.",
+    "event": "update"
+  }
+]

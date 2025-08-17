@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": "2025-01-15 08:49",
+    "sender": "Rohan",
+    "message": "Hey team, excited to start my onboarding journey! I'm Rohan from Singapore, living with mild high blood pressure.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-15 09:12",
+    "sender": "Sarah",
+    "message": "Hi Rohan, Sarah here, your PA. We're glad you're joining us! Let's get started with setting up your profile.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-15 11:19",
+    "sender": "Ruby",
+    "message": "Awesome, Rohan! To confirm, we'll schedule a test panel for tomorrow at 2 PM SG time. Reminder: please fast for 8 hours beforehand.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-15 11:37",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan, looking forward to discussing your baseline medical strategy. Please share any medications or supplements you're currently taking.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-15 11:39",
+    "sender": "Advik",
+    "message": "Hey Rohan, I'm Advik from Elyx. We'll be tracking your wearables and data. Are you using any current wearable devices?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-15 11:47",
+    "sender": "Carla",
+    "message": "Hi Rohan! I'd love to discuss your diet and nutrition goals with you. What are your go-to foods and snacks?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-15 12:55",
+    "sender": "Rohan",
+    "message": "Thanks for the welcome, Neel! Looking forward to getting started. What can I expect from this program?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-15 13:36",
+    "sender": "Neel",
+    "message": "Hi Rohan! You're in good hands with us. Our goal is to help you achieve a better work-life balance and overall well-being.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-15 14:07",
+    "sender": "Sarah",
+    "message": "Hi Ruby, can you please send me Rohan's profile link so we can finalize his setup?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-15 15:28",
+    "sender": "Ruby",
+    "message": "Done! Here's the link, Sarah: [link]",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-01-15 15:58",
+    "sender": "Rohan",
+    "message": "What kind of exercises should I expect in the first 2 weeks? Looking forward to getting started!",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-15 16:17",
+    "sender": "Rachel",
+    "message": "Hey Rohan! For the next 2 weeks, you'll be doing a mix of cardio and strength training. Let me share your personalized workout plan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-15 16:35",
+    "sender": "Rohan",
+    "message": "Hi Advik, do you have any recommendations for wearable devices that integrate well with Elyx?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-15 17:12",
+    "sender": "Advik",
+    "message": "Hey Rohan! Yes, we recommend Fitbit or Garmin smartwatches for seamless tracking integration.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-16 09:30",
+    "sender": "Rohan",
+    "message": "Hi, I'm Rohan from Singapore. New to Elyx. Looking forward to a healthier me!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-16 10:44",
+    "sender": "Sarah",
+    "message": "Hey Rohan! I'm Sarah, your PA. Let's get you set up. What's your availability for a quick intro call?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-16 11:16",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Ruby here. Can we schedule the test panel for next Wednesday? Also, reminder: please download Elyx app by tomorrow.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-16 11:17",
+    "sender": "Dr. Warren",
+    "message": "Hello Rohan! For baseline medical strategy, I recommend we focus on managing high BP. Shall we discuss further?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-16 12:04",
+    "sender": "Advik",
+    "message": "Hey Rohan! Just a heads up - we'll be tracking your data from wearables. Keep them synced!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-16 13:33",
+    "sender": "Carla",
+    "message": "Hi Rohan! Let's chat about food and nutrition. Are you looking for meal plans or just some general guidance?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-16 14:15",
+    "sender": "Rachel",
+    "message": "Hey Rohan! For the first 2 weeks, I recommend exercises like yoga and short walks. We can adjust based on your progress.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-16 14:53",
+    "sender": "Neel",
+    "message": "Welcome to Elyx, Rohan! You're in good hands. Remember, we'll be focusing on holistic well-being - body and mind.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-16 15:12",
+    "sender": "Rohan",
+    "message": "Hi all, thanks for the warm welcome! Can someone explain how this app will track my daily habits?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-16 15:35",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Ruby here. The app uses AI to monitor your habits and provide personalized insights. You can also set reminders and goals!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-16 16:03",
+    "sender": "Dr. Warren",
+    "message": "Good question, Rohan! We'll be monitoring your BP closely and adjusting your plan as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-16 17:10",
+    "sender": "Rohan",
+    "message": "Awesome, thanks for the clarification! One more thing - do I need to adjust my medication based on Elyx's recommendations?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-17 09:04",
+    "sender": "Rohan",
+    "message": "Hi team, I'm Rohan from Singapore, living with mild hypertension. Looking forward to working with you all.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-17 09:53",
+    "sender": "Sarah",
+    "message": "Hey Rohan! I'm Sarah, your dedicated PA. Let me help you get started. Can you please share some details about yourself?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-17 11:36",
+    "sender": "Ruby",
+    "message": "Got it! Rohan, can you send over your medical records and dietary info? Also, what's your availability for the test panel tomorrow?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-17 11:54",
+    "sender": "Rohan",
+    "message": "Sent my medical records. Tomorrow at 10 am works fine.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-17 12:33",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! I'm Dr. Warren. Let's discuss your baseline medical strategy to ensure we're on the same page. When are you free for a call this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-17 13:11",
+    "sender": "Rohan",
+    "message": "How about Thursday afternoon? Works around that schedule okay with you, Sarah?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-17 13:36",
+    "sender": "Sarah",
+    "message": "Sounds good! Thursday at 2 pm works for me.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-17 14:28",
+    "sender": "Advik",
+    "message": "Hi Rohan! I'm Advik. We can track your wearable data to monitor progress. Which devices do you currently use?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-17 14:44",
+    "sender": "Carla",
+    "message": "Hey Rohan! I'm Carla. Let's chat about your diet and nutrition goals. Are you a vegan, vegetarian, or omnivore?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-17 15:20",
+    "sender": "Rohan",
+    "message": "Omnivore with a focus on healthy living. Looking forward to learning more.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-17 15:58",
+    "sender": "Rachel",
+    "message": "Hi Rohan! I'm Rachel. For the next two weeks, we'll focus on exercises. Here's your first plan: [insert exercise routine]. Let me know if you have any questions!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 08:06",
+    "sender": "Rohan",
+    "message": "Hi team! I'm Rohan from Singapore. Been struggling with high BP for years.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-18 08:09",
+    "sender": "Sarah",
+    "message": "Hey Rohan! I'm Sarah, your PA. Nice to meet you! Let me help you set up.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 08:22",
+    "sender": "Ruby",
+    "message": "Hi Rohan! I'll coordinate logistics and schedule a test panel soon. Reminders are key!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-18 09:18",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! We'll focus on baseline medical strategy. What's your current BP like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-18 09:36",
+    "sender": "Rohan",
+    "message": "Currently around 140/90. Been trying to manage with diet and exercise.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 11:41",
+    "sender": "Advik",
+    "message": "Hey Rohan! I'm tracking wearables/data for insights. How many hours of sleep do you get?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-18 13:53",
+    "sender": "Carla",
+    "message": "Hi Rohan! Nutrition is key! Any dietary restrictions or preferences?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-18 14:08",
+    "sender": "Rohan",
+    "message": "Mostly vegetarian, no dairy. Trying to cut down on carbs.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 14:19",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Let's start with a 2-week exercise plan. We'll focus on cardio and strength training.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 14:54",
+    "sender": "Neel",
+    "message": "Hey Rohan! Welcome to Elyx! Don't worry about the details – we've got this! You're in good hands!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 15:08",
+    "sender": "Rohan",
+    "message": "Thanks Neel! So, how often do I need to check my BP?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-18 15:55",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! We'll aim for twice daily with a log.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-18 17:07",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Remember, reminders are key! Keep those test panels scheduled!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-19 08:35",
+    "sender": "Rohan",
+    "message": "Hey team, I'm Rohan from Singapore. Been dealing with high BP for years.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-19 09:07",
+    "sender": "Sarah",
+    "message": "Hi Rohan! I'm Sarah, your dedicated PA. Setting up our conversation now.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-19 10:34",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Ruby here. We're onboarding you today. Let's discuss logistics & schedules soon!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-19 10:37",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Based on your history, we'll focus on baseline medical strategy to manage your BP effectively.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-19 11:05",
+    "sender": "Advik",
+    "message": "Hey Rohan! I'm Advik. Wearables and data tracking will be key in understanding your health journey.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-19 12:44",
+    "sender": "Carla",
+    "message": "Hi Rohan! I'd love to discuss food & nutrition with you. What's your typical diet like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-19 14:11",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Rachel here, introducing our first 2-week exercise plan. Let me know any questions!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-19 14:54",
+    "sender": "Neel",
+    "message": "Welcome Rohan! Neel here from the Elyx team. We're excited to have you on board and support your health journey.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-19 15:22",
+    "sender": "Rohan",
+    "message": "What's the best way to track my BP levels?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-19 16:06",
+    "sender": "Ruby",
+    "message": "Rohan, we'll schedule a test panel soon to monitor your progress. Stay tuned for reminders!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-19 17:37",
+    "sender": "Carla",
+    "message": "What kind of diet do you follow currently, Rohan? Any specific concerns?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-19 17:42",
+    "sender": "Dr. Warren",
+    "message": "Great question, Rohan! We'll work together to create a personalized medical strategy.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-20 08:06",
+    "sender": "Rohan",
+    "message": "Hi team, excited to start! I've had high BP for years. Priorities are stress management and energy boost.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-20 08:32",
+    "sender": "Sarah",
+    "message": "Hey Rohan! I'm Sarah, your PA. Let's get setup done ASAP. Ruby will help with logistics.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-01-20 09:07",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Logistics sorted. Schedule test panel for 2025-01-22. Reminder at 9 AM.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-20 09:26",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Baseline medical strategy: monitor BP, blood sugar & sleep patterns. We'll adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-20 11:05",
+    "sender": "Advik",
+    "message": "Hey Rohan! Tracking data with wearables will help us pinpoint areas for improvement.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-20 13:18",
+    "sender": "Carla",
+    "message": "Hey Rohan! Let's talk food! What are your dietary preferences?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-20 13:54",
+    "sender": "Rohan",
+    "message": "Carla, I'm a flexitarian. Mostly plant-based with occasional fish/wild game.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-20 16:30",
+    "sender": "Rachel",
+    "message": "Hi Rohan! 2-week exercise plan starts tomorrow. Focus on low-impact cardio & strength training.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-20 16:42",
+    "sender": "Neel",
+    "message": "Welcome Rohan! You're in good hands. We'll work together to achieve your goals.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-20 17:03",
+    "sender": "Rohan",
+    "message": "Hi Neel, thanks for the warm welcome! Question: How will we handle stress management?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-20 17:49",
+    "sender": "Ruby",
+    "message": "Good question, Rohan! We'll incorporate meditation, deep breathing exercises, and yoga.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 09:23",
+    "sender": "Rohan",
+    "message": "Hey team, I'm Rohan from Singapore. Chronic high BP, 40, and eager to optimize my health with Elyx.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-21 10:01",
+    "sender": "Sarah",
+    "message": "Hi Rohan! I'm Sarah, your PA. Let's get started on setting up your account. Ruby will help with logistics.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 10:22",
+    "sender": "Ruby",
+    "message": "Hello Rohan! I'll coordinate your test panel and reminders. When are you available for the first appointment?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-21 10:23",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan, let's discuss baseline medical strategy. Please share your current medications and health status.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 10:33",
+    "sender": "Rohan",
+    "message": "Will do, Dr. Warren. In the meantime, my diet consists of mostly Indian food, with some healthy habits like yoga.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 11:03",
+    "sender": "Carla",
+    "message": "Hey Rohan! What kind of foods do you enjoy? We can explore options that suit your taste buds.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-21 11:25",
+    "sender": "Advik",
+    "message": "Hi Rohan! I'm exploring wearables and data tracking for our program. Are you comfortable sharing your wearable data?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-21 13:19",
+    "sender": "Rohan",
+    "message": "Sounds good, Advik. Please go ahead. Also, what's the plan for exercise? Should I start with some basic yoga routines?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-21 13:45",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Our first 2-week exercise plan is focused on gentle stretches and cardio exercises. We'll discuss more soon.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 14:24",
+    "sender": "Neel",
+    "message": "Welcome to Elyx, Rohan! You're in good hands. Remember, we're here to support your overall well-being.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 15:32",
+    "sender": "Rohan",
+    "message": "Thanks, Neel! Can you explain how the test panel will work? Will it be invasive?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-21 15:37",
+    "sender": "Ruby",
+    "message": "Good question, Rohan! The test panel is non-invasive and painless. We'll discuss details soon.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-21 15:51",
+    "sender": "Dr. Warren",
+    "message": "That's correct, Rohan. We'll also review your medical history to create a personalized plan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-21 17:20",
+    "sender": "Rohan",
+    "message": "Cool, thanks for the reassurance!",
+    "event": "update"
+  }
+]

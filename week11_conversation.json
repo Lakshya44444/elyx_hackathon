@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": "2025-03-12 09:25",
+    "sender": "Rohan",
+    "message": "Weekly check-in please, thanks!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-03-12 09:35",
+    "sender": "Sarah",
+    "message": "Of course, Rohan! How's your overall well-being this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-12 09:49",
+    "sender": "Ruby",
+    "message": "Hey Sarah, Rohan's progress is steady but we need to push harder on exercise and nutrition. Agree?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-12 10:25",
+    "sender": "Sarah",
+    "message": "Absolutely Ruby, let's set some concrete goals for the next 2 weeks.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-12 10:31",
+    "sender": "Rohan",
+    "message": "Exercise-wise, I've been doing okay but still struggling with morning routine. Tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-12 11:11",
+    "sender": "Dr. Warren",
+    "message": "Morning sunlight exposure and a consistent wake-up time can help regulate circadian rhythms.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-12 11:22",
+    "sender": "Rohan",
+    "message": "Nutrition-wise, I've been trying to cut down on sugar. Any high-protein snack recommendations?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-12 13:46",
+    "sender": "Carla",
+    "message": "Hey Rohan, have you tried Greek yogurt with nuts? Rich in protein and healthy fats!",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-12 13:52",
+    "sender": "Sarah",
+    "message": "Reminder Rohan, labs are due this week! Let's get those scheduled for tomorrow.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-12 14:12",
+    "sender": "Rohan",
+    "message": "Lab results are in. What do they say?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-12 15:29",
+    "sender": "Advik",
+    "message": "Hi Rohan, your lab results look good overall but we need to work on that blood sugar control. Let's discuss a plan.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-12 15:37",
+    "sender": "Rohan",
+    "message": "Mindfulness-wise, I've been trying meditation but having trouble committing to 10 minutes daily. Any tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-12 16:36",
+    "sender": "Rachel",
+    "message": "Hey Rohan, try breaking it down into smaller chunks like 2-3 minute sessions throughout the day!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 08:42",
+    "sender": "Rohan",
+    "message": "Hey Sarah, what's new?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-13 10:02",
+    "sender": "Sarah",
+    "message": "Not much, just checking in to see how you're doing this week.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-03-13 10:08",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Just wanted to follow up on your last wellness assessment and remove any blockers. What's been challenging lately?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-03-13 11:01",
+    "sender": "Rohan",
+    "message": "Honestly, trying to balance work and personal life is tough.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 11:43",
+    "sender": "Advik",
+    "message": "Hey Rohan, don't forget to stay hydrated and take breaks throughout the day!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 12:39",
+    "sender": "Sarah",
+    "message": "Rohan's trying to get some exercise in, Advik. Any suggestions for a quick workout routine?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-13 12:53",
+    "sender": "Advik",
+    "message": "Yeah, I can send you a few exercises that require minimal equipment! What do you say, Rohan?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-13 13:19",
+    "sender": "Rohan",
+    "message": "Sounds good, thanks!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 13:55",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan, just reviewing your lab results and noticed some slight changes. Let's discuss during our check-in this week.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-13 14:02",
+    "sender": "Rohan",
+    "message": "Okay, looking forward to it.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 14:20",
+    "sender": "Carla",
+    "message": "Hey Rohan, how's mindfulness been going for you? Any favorite techniques or apps?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-13 15:22",
+    "sender": "Rohan",
+    "message": "It's been okay... I still need some work on my meditation game!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 15:50",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Remember to prioritize self-care and take time for yourself. You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-13 16:10",
+    "sender": "Neel",
+    "message": "Hey Rohan, did you try that new nutrition plan we discussed last week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-13 16:54",
+    "sender": "Rohan",
+    "message": "Yeah, it's been helping a bit. Still adjusting though.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-03-13 17:38",
+    "sender": "Sarah",
+    "message": "Ruby wanted me to pass along her feedback on your latest sleep log. It looks like there are some inconsistencies.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-13 17:59",
+    "sender": "Rohan",
+    "message": "Oh, okay! Can you forward it to me? Thanks!",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-14 08:11",
+    "sender": "Sarah",
+    "message": "Hey Ruby, Rohan's doing okay but struggling to find time for exercise.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-14 08:31",
+    "sender": "Ruby",
+    "message": "Understood Sarah, let's schedule a quick workout session during his Singapore trip.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-14 08:35",
+    "sender": "Rohan",
+    "message": "Hi guys, what are my lab results looking like?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-14 10:18",
+    "sender": "Dr. Warren",
+    "message": "Hey Rohan, all looks good! Just one area of concern: your vitamin D levels might be low.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-14 10:20",
+    "sender": "Sarah",
+    "message": "Thanks Doc, we'll work on that. Ruby, can you schedule a follow-up with our nutrition expert?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-03-14 10:49",
+    "sender": "Ruby",
+    "message": "Done Sarah!",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-03-14 11:23",
+    "sender": "Rohan",
+    "message": "How's my mindfulness practice going?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-14 11:45",
+    "sender": "Carla",
+    "message": "Hi Rohan, you've got 3 sessions under your belt! Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-14 12:08",
+    "sender": "Advik",
+    "message": "Hey Rohan, what's your current sleep quality like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-14 12:58",
+    "sender": "Rohan",
+    "message": "Not great, Advik. Still getting used to Singapore time.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-14 13:42",
+    "sender": "Sarah",
+    "message": "Okay, we'll adjust your schedule accordingly. Ruby, can you send over some tips for adjusting to a new timezone?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-03-14 14:38",
+    "sender": "Ruby",
+    "message": "Sent Sarah!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-14 15:36",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-14 15:43",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-14 17:02",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-15 10:36",
+    "sender": "Sarah",
+    "message": "Hi Rohan! Ruby from Elyx here for your weekly check-in. How's everything going?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-03-15 11:07",
+    "sender": "Rohan",
+    "message": "Hey Ruby! I'm trying my best with exercise and nutrition, but it's tough to stick to routines.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-15 11:55",
+    "sender": "Ruby",
+    "message": "That's understandable! What specifically is challenging? We can work on adjusting the plan.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-03-15 12:14",
+    "sender": "Sarah",
+    "message": "Hi Advik, can you help Rohan with his workout routine? He's struggling to find time in Singapore.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-15 13:12",
+    "sender": "Advik",
+    "message": "Hey Sarah! I've sent Rohan a revised schedule. Let me know if that works better for him.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-03-15 14:18",
+    "sender": "Rohan",
+    "message": "Thanks Advik! Still having trouble sleeping though. Any tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-15 15:03",
+    "sender": "Carla",
+    "message": "Hey Rohan, have you tried some gentle stretches before bed? That can help with sleep quality.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-15 15:49",
+    "sender": "Sarah",
+    "message": "Rohan, don't forget to follow up on those lab results! We want to track your progress.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-15 15:49",
+    "sender": "Rohan",
+    "message": "Sarah, what's the plan for my upcoming medical check-in this week? Just a light review?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-03-15 15:54",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Yes, just a quick review of your records and some guidance on next steps. Looking forward to it!",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-15 16:16",
+    "sender": "Sarah",
+    "message": "Hey Ruby, how can we improve Rohan's mindfulness practice? He's finding it hard to prioritize.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-15 16:43",
+    "sender": "Ruby",
+    "message": "Great question Sarah! Maybe try guided meditations or apps that help track progress?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-15 17:35",
+    "sender": "Rohan",
+    "message": "That sounds helpful! Thanks Ruby. What about some good books on mindfulness?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-03-16 09:23",
+    "sender": "Sarah",
+    "message": "Hey Ruby, how's Rohan's progress? Any blockers?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-16 09:56",
+    "sender": "Ruby",
+    "message": "Hi Sarah! Rohan's been doing okay, but we need to push him on exercise and nutrition.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-16 10:08",
+    "sender": "Rohan",
+    "message": "Hey guys, I've tried the mindfulness exercises, but what about some new lab results? Can we discuss them?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-16 10:35",
+    "sender": "Carla",
+    "message": "Hi Rohan, let's focus on labs in the next check-in. Keep trying mindfulness and exercise, okay?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-16 10:39",
+    "sender": "Sarah",
+    "message": "Hi Dr. Warren, can you help us with some guidance on Rohan's latest lab results?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-16 10:40",
+    "sender": "Dr. Warren",
+    "message": "Sarah, it looks like Rohan's numbers are trending positive! Keep up the good work.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-16 12:02",
+    "sender": "Rohan",
+    "message": "Hey team, what's the best way to manage stress during my Singapore trip this week? Any tips?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-16 12:08",
+    "sender": "Ruby",
+    "message": "Hey Rohan, just prioritize mindfulness and deep breathing exercises during your travels. You got this!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-03-16 12:08",
+    "sender": "Sarah",
+    "message": "Hi Advik, can you help us with some nutrition recommendations for Rohan while he's in Singapore?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-16 13:07",
+    "sender": "Advik",
+    "message": "Sarah, Rohan should focus on whole foods and healthy snacks during his trip.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-16 14:04",
+    "sender": "Rohan",
+    "message": "What are some good breakfast options in Singapore? Any healthy cafes?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-16 14:28",
+    "sender": "Carla",
+    "message": "Hey Rohan, check out some local health food stores or juice bars. You'll find plenty of options!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-16 14:29",
+    "sender": "Sarah",
+    "message": "Hi Rachel, can you help us with some exercise ideas for Rohan to do during his downtime?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-16 16:59",
+    "sender": "Rachel",
+    "message": "Sarah, suggest he try some yoga or bodyweight exercises that don't require much equipment.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-17 08:43",
+    "sender": "Sarah",
+    "message": "Hi Ruby, Rohan's back in Singapore and I've scheduled his weekly check-in with you today. Looking forward to your feedback!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-17 09:16",
+    "sender": "Ruby",
+    "message": "Hey Sarah! Thanks for reaching out. Rohan's been doing okay, but we need to push him harder on exercise and nutrition.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 09:38",
+    "sender": "Rohan",
+    "message": "How do I get more protein into my diet?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-17 10:50",
+    "sender": "Advik",
+    "message": "Try incorporating nuts, seeds, or lean meats into your meals, Rohan. You can also consult our nutrition guide!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 10:56",
+    "sender": "Sarah",
+    "message": "Thanks, Advik! Ruby, what's the latest on his lab results?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-17 12:42",
+    "sender": "Ruby",
+    "message": "All looking good so far, but we need to keep an eye on those numbers. Dr. Warren will review them at the fort tonight.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 12:48",
+    "sender": "Rohan",
+    "message": "Hey Sarah, I've been trying mindfulness exercises daily. How am I doing?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-17 13:25",
+    "sender": "Sarah",
+    "message": "That's great, Rohan! You're sticking to it well. Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 13:56",
+    "sender": "Carla",
+    "message": "Hi Rohan! Just a quick follow-up on your sleep patterns. Have you noticed any improvements?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-17 15:15",
+    "sender": "Rohan",
+    "message": "Yeah, I'm sleeping better. Thanks for asking!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 16:21",
+    "sender": "Dr. Warren",
+    "message": "Hey Rohan! Just reviewed your records and all looks good. Keep up the good work!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 16:38",
+    "sender": "Sarah",
+    "message": "Thanks, Dr. Warren! Ruby, what's our plan moving forward?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-17 16:43",
+    "sender": "Ruby",
+    "message": "We'll review his progress in two weeks and adjust as needed. Keep pushing those interventions, Sarah!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-03-17 16:54",
+    "sender": "Rohan",
+    "message": "Hi, what are some simple stretches I can do at my desk?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-17 17:04",
+    "sender": "Rachel",
+    "message": "Try shoulder rolls, neck stretches, or wrist extensions. They're easy and effective, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-17 17:50",
+    "sender": "Neel",
+    "message": "Hey Rohan! How's your energy levels been? Any changes you've noticed?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-03-18 08:44",
+    "sender": "Sarah",
+    "message": "Hey Ruby, Rohan's weekly check-in is today. What's the priority area to focus on?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-03-18 10:34",
+    "sender": "Ruby",
+    "message": "Nutrition and mindfulness, Sarah. He needs to stick to his meal plan and meditate daily.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-18 11:06",
+    "sender": "Rohan",
+    "message": "Yeah, I'll try to do better with that. How's my adherence percentage looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-18 11:25",
+    "sender": "Sarah",
+    "message": "Around 55%, Rohan. You're making progress!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-18 11:40",
+    "sender": "Rohan",
+    "message": "Cool, thanks for the update. What are the medical team's concerns this fortnight?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-18 12:03",
+    "sender": "Dr. Warren",
+    "message": "Nothing major, Rohan. Just a review of your records and some guidance on lab results.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-18 12:07",
+    "sender": "Rohan",
+    "message": "Got it. Can you guys push me to try that new exercise routine again? It feels like it's not doing much.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-18 12:49",
+    "sender": "Advik",
+    "message": "We'll send you reminders, Rohan! Consistency is key. How was your week in Singapore?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-03-18 12:54",
+    "sender": "Rohan",
+    "message": "Busy as usual, but I managed to squeeze in some mindfulness sessions. Thanks for the tips!",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-03-18 13:24",
+    "sender": "Sarah",
+    "message": "That's great to hear, Rohan! You're on track with your goals.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-18 14:19",
+    "sender": "Ruby",
+    "message": "Remember to prioritize self-care and don't overexert yourself, okay?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-18 16:43",
+    "sender": "Rohan",
+    "message": "Got it, Ruby. One more thing - what's a good breakfast option that'll keep me full till lunch?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-03-18 17:25",
+    "sender": "Carla",
+    "message": "Oatmeal with nuts and fruits is a great choice, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-03-18 17:44",
+    "sender": "Rohan",
+    "message": "Perfect! Thanks for the suggestion.",
+    "event": "education"
+  }
+]

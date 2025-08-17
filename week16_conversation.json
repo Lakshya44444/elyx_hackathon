@@ -1,0 +1,602 @@
+[
+  {
+    "timestamp": "2025-04-23 10:19",
+    "sender": "Sarah",
+    "message": "Hi Rohan, how was your week? Any updates on the interventions from last week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-23 10:26",
+    "sender": "Rohan",
+    "message": "Not much to report yet, just trying to stay consistent.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-23 10:46",
+    "sender": "Ruby",
+    "message": "That's great to hear! Have you been tracking your blood sugar levels regularly?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-23 11:12",
+    "sender": "Rohan",
+    "message": "Yeah, mostly. Had a few hiccups with the app though.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 12:48",
+    "sender": "Sarah",
+    "message": "No worries, we can troubleshoot that later. Dr. Warren wanted me to remind you to book an appointment for next week.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-23 13:02",
+    "sender": "Dr. Warren",
+    "message": "Absolutely, Rohan! We need to discuss your medication adjustments based on last week's test results.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-23 13:23",
+    "sender": "Rohan",
+    "message": "Got it, thanks Sarah!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 13:35",
+    "sender": "Advik",
+    "message": "Hey Rohan, just a friendly reminder to drink more water today!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-04-23 14:06",
+    "sender": "Carla",
+    "message": "And don't forget to take those antioxidants, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 14:12",
+    "sender": "Sarah",
+    "message": "Rohan, I spoke with Ruby and she suggested we adjust your meal plan based on your recent progress. Thoughts?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-23 14:13",
+    "sender": "Rohan",
+    "message": "Sounds good, go ahead.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 14:36",
+    "sender": "Ruby",
+    "message": "Great! We'll send you a revised meal plan soon. Keep up the good work!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 15:47",
+    "sender": "Neel",
+    "message": "Hey Rohan, just wanted to say you're doing awesome! Keep pushing forward!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 15:50",
+    "sender": "Rachel",
+    "message": "Totally agree, Rohan! You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 16:01",
+    "sender": "Sarah",
+    "message": "Rohan, Dr. Warren wants to know if you have any questions about your medication regimen.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-23 17:45",
+    "sender": "Rohan",
+    "message": "Yeah, what's the best way to handle these pesky headaches?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-24 09:43",
+    "sender": "Sarah",
+    "message": "Hey Ruby, how's Week 15 progress looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-24 10:19",
+    "sender": "Ruby",
+    "message": "All good! Blood sugar under control, BP also trending down.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-24 10:43",
+    "sender": "Rohan",
+    "message": "Thanks for update! How do I adjust my meal plan to maintain this pace?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-24 11:18",
+    "sender": "Sarah",
+    "message": "Advik can help with that. What's your current diet like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-24 11:52",
+    "sender": "Advik",
+    "message": "Rohan, aim for balanced meals, portion control, and regular snacks. Avoid spikes.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-24 13:18",
+    "sender": "Dr. Warren",
+    "message": "Remember to stay hydrated, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-24 15:06",
+    "sender": "Rohan",
+    "message": "Got it! Thanks, Doc. Sarah, schedule a call with Carla for lifestyle tracking advice.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-24 16:36",
+    "sender": "Sarah",
+    "message": "Done! You're all set for 2 PM today.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-04-24 16:50",
+    "sender": "Carla",
+    "message": "Hi Rohan! Let's discuss your sleep patterns. Are you getting enough rest?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-24 17:11",
+    "sender": "Rohan",
+    "message": "Yeah, usually around 7 hours. Should I aim for more or less?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-24 17:11",
+    "sender": "Carla",
+    "message": "With your progress, 7 hours is good. Just ensure consistency.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-24 17:28",
+    "sender": "Sarah",
+    "message": "Neel says hi and wants to know if you've been tracking your daily steps.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-24 17:54",
+    "sender": "Sarah",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-25 08:06",
+    "sender": "Sarah",
+    "message": "Hi Rohan, how's your blood sugar control since last week's intervention?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-25 08:34",
+    "sender": "Rohan",
+    "message": "Good, thanks Sarah! Been tracking meals and exercise better.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-25 08:41",
+    "sender": "Ruby",
+    "message": "Great to hear that, Rohan! Can you confirm your latest HbA1c result was within target range?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-25 09:04",
+    "sender": "Rohan",
+    "message": "Yeah, it's good. 6.2% this time!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-25 09:18",
+    "sender": "Sarah",
+    "message": "Excellent! Advik will review the results and provide guidance on next steps.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-25 10:13",
+    "sender": "Carla",
+    "message": "Rohan, don't forget to take your medication at the same time every day for consistent absorption.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-25 11:57",
+    "sender": "Rohan",
+    "message": "Got it, Carla! Thanks for the reminder.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-04-25 12:10",
+    "sender": "Rachel",
+    "message": "Rohan, have you been getting enough sleep lately? 7-8 hours is ideal for blood sugar regulation.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-25 12:20",
+    "sender": "Rohan",
+    "message": "Yeah, I've been sleeping well. 7.5 hours on average.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-25 13:15",
+    "sender": "Sarah",
+    "message": "That's great! Dr. Warren will review your progress and adjust your treatment plan if needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-25 13:38",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan, based on your latest results, we're making some adjustments to your insulin dosing. Sarah will guide you through the changes.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-25 14:27",
+    "sender": "Rohan",
+    "message": "Okay got it!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-25 14:58",
+    "sender": "Advik",
+    "message": "Rohan, remember to log your blood sugar readings regularly to monitor progress and make adjustments as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-25 16:45",
+    "sender": "Carla",
+    "message": "Don't forget to stay hydrated by drinking plenty of water throughout the day, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-26 08:32",
+    "sender": "Sarah",
+    "message": "Hey Rohan, update on Week 15 progress? How's your blood sugar level?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-26 09:26",
+    "sender": "Rohan",
+    "message": "Not bad, Sarah. Still a bit high, but I'm trying to adjust my meds.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-26 10:59",
+    "sender": "Ruby",
+    "message": "Hi Rohan! We're monitoring your insulin levels closely. Adjusting your dosage may help. Let's discuss at our next appointment.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-26 11:45",
+    "sender": "Sarah",
+    "message": "Got it, Ruby. Will schedule that appointment. Thanks!",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-26 11:55",
+    "sender": "Advik",
+    "message": "Hey Rohan, don't forget to track your blood pressure today! Every reading counts!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-26 12:43",
+    "sender": "Rohan",
+    "message": "Thanks, Advik. I'll make sure to log it.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-26 13:54",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Great job on keeping up with your medication routine! Keep up the good work.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-26 15:02",
+    "sender": "Sarah",
+    "message": "Thanks for the motivation, Dr. Warren! You're doing great, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-26 15:20",
+    "sender": "Carla",
+    "message": "Hey Rohan! Just a reminder, we have your appointment scheduled for next Wednesday. Be prepared to discuss your progress!",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-26 15:26",
+    "sender": "Rohan",
+    "message": "Got it, Carla. I'll review my notes beforehand.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-26 16:21",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Did you know that regular exercise can help lower blood sugar levels? Let's incorporate some physical activity into your daily routine!",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-26 17:13",
+    "sender": "Sarah",
+    "message": "That's a great tip, Rachel! We should schedule some exercise tracking for next week's appointment.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-26 17:15",
+    "sender": "Neel",
+    "message": "Hey Rohan! Just a friendly nudge to check in on your diet and lifestyle habits. How are you doing?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-27 08:03",
+    "sender": "Sarah",
+    "message": "Hey Ruby, how's Week 15 progress going? Any changes?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-27 08:06",
+    "sender": "Ruby",
+    "message": "Hi Sarah! We're seeing great improvement in Rohan's blood sugar levels!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-27 10:24",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! I feel like I'm getting back on track.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-27 10:32",
+    "sender": "Sarah",
+    "message": "That's fantastic news! Advik, what adjustments can we make to his meds based on the latest test results?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-27 10:51",
+    "sender": "Advik",
+    "message": "Let's discuss with Dr. Warren and adjust dosage accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-27 12:22",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan, let's review your last blood work. Looks like we need to tweak your insulin dose slightly.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-27 13:47",
+    "sender": "Rohan",
+    "message": "Got it! Thanks for the update, Doc!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-27 14:11",
+    "sender": "Sarah",
+    "message": "Alright, let's schedule a follow-up appointment for next Monday. Carla, remind me what lifestyle changes would help?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-27 14:16",
+    "sender": "Carla",
+    "message": "Hey Sarah! Encourage Rohan to increase his water intake and take those daily walks.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-27 14:17",
+    "sender": "Rachel",
+    "message": "Hi team! Just a friendly reminder: remember to track your food diary and medication adherence, Rohan!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-04-27 14:39",
+    "sender": "Rohan",
+    "message": "Got it! Thanks for the nudge, Rachel!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-27 16:12",
+    "sender": "Sarah",
+    "message": "Okay, let's aim for 7,000 steps today, Rohan! You got this!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 08:38",
+    "sender": "Sarah",
+    "message": "Hi Ruby, any update on Week 15 interventions?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-28 09:27",
+    "sender": "Ruby",
+    "message": "Progress is good! Blood sugar levels have reduced by 10%. Need to work on sleep quality.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 09:31",
+    "sender": "Rohan",
+    "message": "Thanks for the update! What can I do differently?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-28 09:31",
+    "sender": "Carla",
+    "message": "Try a 20-minute power nap before dinner. It'll help regulate your blood sugar and overall health.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 09:56",
+    "sender": "Sarah",
+    "message": "Hi Dr. Warren, Rohan's blood pressure is still slightly high. Any suggestions?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-04-28 10:28",
+    "sender": "Dr. Warren",
+    "message": "Increase potassium intake through bananas or leafy greens. Potassium helps lower BP naturally.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 11:33",
+    "sender": "Rohan",
+    "message": "Thanks! I'll make sure to have a banana before dinner.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 12:05",
+    "sender": "Advik",
+    "message": "Hi Rohan, remember to log your workouts in the Elyx app. It's crucial for tracking progress!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 13:04",
+    "sender": "Sarah",
+    "message": "Neel, can you remind Rohan to schedule his quarterly blood test appointment?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-28 14:07",
+    "sender": "Neel",
+    "message": "Of course, Sarah! Appointment scheduled for May 10th.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-28 14:10",
+    "sender": "Rohan",
+    "message": "Thanks, guys! I'm feeling motivated. Time for a workout",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 14:17",
+    "sender": "Rachel",
+    "message": "That's the spirit, Rohan! Don't forget to stretch before and after your workout.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 14:53",
+    "sender": "Sarah",
+    "message": "Hi Ruby, any tips on improving sleep quality?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-04-28 15:28",
+    "sender": "Ruby",
+    "message": "Establish a relaxing bedtime routine, including reading or meditation.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 16:24",
+    "sender": "Rohan",
+    "message": "Got it! Thanks, Ruby",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 16:53",
+    "sender": "Carla",
+    "message": "Remember, Rohan, hydration is key! Drink plenty of water throughout the day.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-28 16:59",
+    "sender": "Sarah",
+    "message": "Hi Dr. Warren, can you provide some educational tips on stress management?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-04-28 17:32",
+    "sender": "Dr. Warren",
+    "message": "Practice deep breathing exercises and prioritize self-care activities like yoga or meditation.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 08:50",
+    "sender": "Sarah",
+    "message": "Hey Ruby, any updates on Week 15 interventions?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-29 09:21",
+    "sender": "Ruby",
+    "message": "Progress is good! Blood sugar levels slightly improved.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 11:17",
+    "sender": "Rohan",
+    "message": "Thanks for update. What's the next step?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-29 12:39",
+    "sender": "Dr. Warren",
+    "message": "Continue monitoring and adjusting medication as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-04-29 13:33",
+    "sender": "Advik",
+    "message": "Rohan, don't forget to log your blood glucose levels daily.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 13:38",
+    "sender": "Sarah",
+    "message": "Hi Carla, any tips on how to increase physical activity?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-04-29 14:36",
+    "sender": "Carla",
+    "message": "Start small! Aim for 30 minutes of moderate exercise 3 times a week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 15:48",
+    "sender": "Rohan",
+    "message": "Got it. Will try to fit it in my schedule.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-29 15:55",
+    "sender": "Rachel",
+    "message": "Hey Rohan, remember to drink plenty of water throughout the day!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 16:04",
+    "sender": "Neel",
+    "message": "Don't forget to track your food intake and portion sizes, Rohan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 16:43",
+    "sender": "Sarah",
+    "message": "Hi Ruby, what's the best way to stay motivated?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-29 16:45",
+    "sender": "Ruby",
+    "message": "Celebrate small wins! Share with friends or family for accountability.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-29 17:25",
+    "sender": "Rohan",
+    "message": "Good reminder. Thanks everyone for the support!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-04-29 17:47",
+    "sender": "Dr. Warren",
+    "message": "Keep up the good work, Rohan! You're making progress.",
+    "event": "update"
+  }
+]

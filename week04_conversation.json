@@ -1,0 +1,656 @@
+[
+  {
+    "timestamp": "2025-01-22 08:25",
+    "sender": "Rohan",
+    "message": "Hey team, just landed in Seoul. Jet lag kicking in. What's the plan?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-22 08:27",
+    "sender": "Ruby",
+    "message": "Morning Rohan! You're on UK time now. Dr. Warren has your test results. \"major issues\" <act>",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-22 08:30",
+    "sender": "Dr. Warren",
+    "message": "Good morning Rohan. Your cholesterol levels are a bit high. We need to discuss lifestyle changes.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-22 08:32",
+    "sender": "Rohan",
+    "message": "Okay, got it. What kind of changes?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-22 09:29",
+    "sender": "Carla",
+    "message": "Hey Rohan! I've been reviewing your food logs. Let's work on incorporating more fiber-rich foods for better digestion.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 09:35",
+    "sender": "Rohan",
+    "message": "Sounds good. How will this impact my blood sugar levels?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-22 09:44",
+    "sender": "Advik",
+    "message": "Hey Rohan! Your HRV data shows signs of stress. Maybe we can explore some relaxation techniques to improve sleep quality?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-22 09:54",
+    "sender": "Rohan",
+    "message": "Yeah, that sounds great. What are the techniques?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-22 10:22",
+    "sender": "Rachel",
+    "message": "Morning Rohan! We need to work on your core strength for better posture and reduced back pain.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 11:43",
+    "sender": "Rohan",
+    "message": "Okay, got it. Can I do some exercises while traveling?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-22 11:48",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Ruby here. Your travel schedule is updated. You have a virtual appointment with Dr. Warren tomorrow at 8 am UK time.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-22 11:58",
+    "sender": "Dr. Warren",
+    "message": "Good morning Rohan! Tomorrow's call will cover your cholesterol plan and medication options.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 12:10",
+    "sender": "Rohan",
+    "message": "Thanks, Doc. What about my curiosity question on sleep quality?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-22 12:41",
+    "sender": "Advik",
+    "message": "Ah, great question Rohan! We can discuss it during our next check-in. Keep tracking those Garmin sleep scores!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-22 15:12",
+    "sender": "Carla",
+    "message": "Hey Rohan! Just a friendly reminder to keep logging your food intake. It helps me fine-tune your nutrition plan.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-22 16:37",
+    "sender": "Rohan",
+    "message": "Will do Carla. Thanks for the reminder.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-22 17:18",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Your test results are \"need followup\" <soft follow up>. We'll discuss further during our next call.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-23 08:06",
+    "sender": "Rohan",
+    "message": "Got my test results back. What do they mean?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-23 09:34",
+    "sender": "Dr. Warren",
+    "message": "Blood work looks good, but inflammatory markers are slightly high. We'll need to follow up on that.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-23 09:44",
+    "sender": "Advik",
+    "message": "And HRV data shows some stress resilience issues. We should explore relaxation techniques.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 10:39",
+    "sender": "Carla",
+    "message": "Nutrient levels look okay, but we might want to tweak your supplements based on test results.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-23 10:43",
+    "sender": "Rohan",
+    "message": "Got it. What's the plan?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-23 11:23",
+    "sender": "Neel",
+    "message": "Let's schedule a call with Dr. Warren to discuss further.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-23 11:40",
+    "sender": "Dr. Warren",
+    "message": "Next Wednesday at 10 am GMT. Make sure you're well-rested and ready for our discussion.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 11:45",
+    "sender": "Ruby",
+    "message": "Rohan, I've updated your exercise routine based on your test results and travel schedule.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-23 12:44",
+    "sender": "Rohan",
+    "message": "Thanks, Ruby! What changes did you make?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-23 12:44",
+    "sender": "Ruby",
+    "message": "We swapped out a strength training session with some mobility exercises to account for your travel.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-23 13:44",
+    "sender": "Carla",
+    "message": "How's the jet lag affecting you? Any trouble sleeping?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-23 13:48",
+    "sender": "Rohan",
+    "message": "Yeah, I'm still getting used to it. Any tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-23 15:09",
+    "sender": "Rachel",
+    "message": "Try establishing a consistent sleep schedule and using blackout curtains to help regulate your body clock.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-23 15:12",
+    "sender": "Advik",
+    "message": "And don't forget to prioritize relaxation techniques during this time. Your HRV data will thank you!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 15:39",
+    "sender": "Dr. Warren",
+    "message": "Rohan, we need to discuss your high blood pressure. Let's schedule that call for next Wednesday.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-23 17:18",
+    "sender": "Rohan",
+    "message": "Got it, thanks for the reminder. What do I need to change?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-24 08:44",
+    "sender": "Rohan",
+    "message": "Got test results back, what's the update?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-24 09:20",
+    "sender": "Ruby",
+    "message": "Hey Rohan! \"Need followup\" on your blood markers. Schedule a call with Dr. Warren to discuss.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-24 09:39",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Your cholesterol is a bit high, but we can adjust that. We'll also keep an eye on BP. I'll send you a personalized plan by tomorrow.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-24 10:07",
+    "sender": "Rohan",
+    "message": "Got it, thanks Doc!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 11:16",
+    "sender": "Advik",
+    "message": "Hey Rohan! Your Garmin data shows some sleep quality issues. We should explore strategies to improve that.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 12:30",
+    "sender": "Carla",
+    "message": "Hi Rohan! Given your sleep concerns, we'll focus on relaxation techniques and stress management. I'll send you a nutrition plan update by tonight.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 13:00",
+    "sender": "Rohan",
+    "message": "Thanks Carla!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 13:52",
+    "sender": "Neel",
+    "message": "Hey Rohan! With travel coming up, let's prioritize your routine. We can adjust the exercise plan to accommodate jet lag. What do you think?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-24 14:07",
+    "sender": "Rohan",
+    "message": "Sounds good Neel, thanks for considering that!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 14:10",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Your upcoming travel schedule looks busy, but we'll make sure to keep your appointments and interventions on track.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-24 14:27",
+    "sender": "Rachel",
+    "message": "Hey Rohan! Exercise updates will be sent to your wearable device this week. Let me know if you have any questions or concerns.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 15:50",
+    "sender": "Rohan",
+    "message": "Will do Rachel, thanks!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 17:09",
+    "sender": "Advik",
+    "message": "Hey Rohan! I noticed some HRV dips lately. We should discuss stress management strategies.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 17:25",
+    "sender": "Carla",
+    "message": "Hi Rohan! With your travel schedule and jet lag considerations, let's focus on self-care techniques. You can start with some relaxation exercises tonight.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-24 17:51",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Your blood markers are under control for now. Let's keep an eye on them and make adjustments as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-25 08:46",
+    "sender": "Rohan",
+    "message": "Hey, what's the latest on my cholesterol numbers?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-25 09:11",
+    "sender": "Dr. Warren",
+    "message": "Good news, Rohan! Your HDL is looking great. \"All okay\"",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 09:13",
+    "sender": "Advik",
+    "message": "I've been tracking your HRV data, and it's showing some nice recovery. Keep up the good work!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 09:21",
+    "sender": "Rohan",
+    "message": "That's encouraging. What about stress levels? Any red flags?",
+    "event": "escalation"
+  },
+  {
+    "timestamp": "2025-01-25 09:43",
+    "sender": "Carla",
+    "message": "Actually, your cortisol levels are a bit elevated. Let's discuss some strategies to manage that.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 10:46",
+    "sender": "Ruby",
+    "message": "Rohan, I've scheduled a virtual appointment with Rachel for Thursday at 8 AM (SGT) to review exercise plans. Confirm?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-25 11:34",
+    "sender": "Rohan",
+    "message": "Sounds good. Just got in from my UK trip and feeling the jet lag. What should I prioritize?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-25 11:53",
+    "sender": "Neel",
+    "message": "Take it easy today, Rohan. We can adjust your exercise plan if needed. How was the trip?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-25 11:58",
+    "sender": "Rohan",
+    "message": "Exhausting, but productive. One curiosity question: Can you help me optimize my morning routine for better sleep?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-25 12:33",
+    "sender": "Carla",
+    "message": "Absolutely! Let's look at your food log and see if we can make some tweaks.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 12:44",
+    "sender": "Advik",
+    "message": "I've got a hypothesis about your Garmin data. Want to test it out?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-25 12:56",
+    "sender": "Rohan",
+    "message": "Sure thing. What do you need from me?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-25 14:03",
+    "sender": "Advik",
+    "message": "Just keep tracking those sleep metrics, and we'll run an experiment next week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 14:13",
+    "sender": "Ruby",
+    "message": "Rohan, remember our virtual appointment with Rachel is tomorrow at 8 AM (SGT). Don't forget!",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-25 14:19",
+    "sender": "Rohan",
+    "message": "Got it! One more curiosity question: Are there any specific supplements that can help with stress management?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-25 14:29",
+    "sender": "Carla",
+    "message": "Yes, actually. Let me send you some recommendations and we can discuss.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-25 15:44",
+    "sender": "Dr. Warren",
+    "message": "Rohan, I've reviewed your latest blood work. Everything looks \"all okay\" except for a minor issue with your LDL. We'll need to follow up on that.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-26 08:32",
+    "sender": "Rohan",
+    "message": "Hey team, getting anxious about my travel schedule this week. Business trips to London and New York with time zone shifts.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-26 08:57",
+    "sender": "Sarah",
+    "message": "Got it, Rohan. I'll keep your calendar updated. Dr. Warren has some test results to discuss.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-26 10:47",
+    "sender": "Dr. Warren",
+    "message": "\"All okay\" on your latest blood work. We're keeping an eye on those cholesterol levels though.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-26 10:55",
+    "sender": "Rohan",
+    "message": "Thanks for the update, Doc! What's next?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-26 11:44",
+    "sender": "Carla",
+    "message": "Let's focus on sleep quality and stress resilience while you're traveling. You can use your Garmin HRV insights to adjust your routine.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-26 11:54",
+    "sender": "Advik",
+    "message": "I've been analyzing your wearables data, Rohan. We should experiment with a 20-minute morning meditation session for cognitive boost.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 12:10",
+    "sender": "Rohan",
+    "message": "That sounds good. How do we make it happen?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-26 12:34",
+    "sender": "Ruby",
+    "message": "I'll schedule a virtual follow-up with Carla on Friday to discuss stress management techniques.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-26 12:36",
+    "sender": "Neel",
+    "message": "Rohan, remember to prioritize self-care during travel. Use the hotel gym or take short walks when you can.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-26 13:23",
+    "sender": "Rohan",
+    "message": "Good reminder, Neel. What's the plan for my next exercise routine update?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-26 13:32",
+    "sender": "Rachel",
+    "message": "Your strength and mobility exercises will remain the same this week. Let's focus on progressive overload and controlled movements.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 14:28",
+    "sender": "Rohan",
+    "message": "Got it. One more thing - what are some healthy snack options I should keep in mind during travel?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-26 14:50",
+    "sender": "Carla",
+    "message": "Nuts, fruits, and energy bars are great choices. Try to avoid heavy meals before bedtime.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 15:53",
+    "sender": "Rohan",
+    "message": "Thanks for the tips! What's my itinerary looking like this week?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-26 17:06",
+    "sender": "Sarah",
+    "message": "You have a meeting in London on Wednesday, then fly to New York on Thursday. Be prepared for some jet lag effects.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-26 17:30",
+    "sender": "Rohan",
+    "message": "Okay, got it. One curiosity question - how can I optimize my HRV data during travel?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-27 10:22",
+    "sender": "Rohan",
+    "message": "Hi team, any updates on my test results?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 10:26",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Your latest blood work is \"all okay\" but we need to discuss cholesterol levels. Let's schedule a call.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 11:36",
+    "sender": "Dr. Warren",
+    "message": "I agree with Ruby. We should aim to reduce your LDL by 10%. Advik, can you run some analytics on your wearables data to see if there are any patterns?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 11:37",
+    "sender": "Advik",
+    "message": "Already on it, Dr. Warren! Preliminary results show some interesting correlations between sleep and HRV. Carla, do you have any insights on nutrition plans?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 12:12",
+    "sender": "Carla",
+    "message": "Actually, Rohan's food logs indicate a high sugar intake. Let's work on reducing those spikes.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-27 12:31",
+    "sender": "Rohan",
+    "message": "Okay, got it. What about exercises? Are there any changes I need to make?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-27 13:22",
+    "sender": "Rachel",
+    "message": "Yes, considering your travel schedule and jet lag, we should focus on low-impact exercises for the next few days.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-27 14:45",
+    "sender": "Neel",
+    "message": "Rohan, can you confirm your availability for a call this Friday at 2 PM (your time)?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 15:49",
+    "sender": "Rohan",
+    "message": "Confirming. What's the agenda?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-27 16:31",
+    "sender": "Ruby",
+    "message": "We'll discuss your cholesterol reduction plan, exercise adjustments, and nutrition strategies.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-27 17:34",
+    "sender": "Rohan",
+    "message": "Got it. One more thing - what are some quick stress-reduction techniques I can use during my business trip?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-27 17:40",
+    "sender": "Advik",
+    "message": "For now, try some deep breathing exercises and short meditation sessions. Will work on a more comprehensive plan for you.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 08:48",
+    "sender": "Rohan",
+    "message": "Morning check-in before my flight to Jakarta",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-28 09:33",
+    "sender": "Sarah",
+    "message": "Safe travels, Rohan! Don't forget to take your meds and wear your Garmin tracker",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-28 09:52",
+    "sender": "Dr. Warren",
+    "message": "Test results: \"all okay\" on cholesterol markers; let's monitor BP levels closely",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-28 10:21",
+    "sender": "Advik",
+    "message": "Noted! HRV data shows some stress spikes lately; we'll review and adjust as needed",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-28 10:36",
+    "sender": "Rohan",
+    "message": "Got it, Doc. What are the next steps for my BP?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-28 10:43",
+    "sender": "Carla",
+    "message": "We're adjusting your nutrition plan to reduce sodium intake. New food logs will be shared soon",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-28 11:44",
+    "sender": "Ruby",
+    "message": "Exercise update: new routine with focus on shoulder mobility and strength training",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 12:29",
+    "sender": "Neel",
+    "message": "Rohan, we need to discuss stress resilience strategies; let's schedule a call when you return from Jakarta",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-28 14:10",
+    "sender": "Rohan",
+    "message": "Sounds good, Neel. What are some quick wins for reducing stress during travels?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-28 14:48",
+    "sender": "Advik",
+    "message": "Try deep breathing exercises; 5-minute morning sessions can help. We'll explore more tools soon",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 15:12",
+    "sender": "Dr. Warren",
+    "message": "Test results: \"need followup\" on inflammatory markers; we'll review in three months",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-28 15:18",
+    "sender": "Rohan",
+    "message": "Got it, Doc. Can I ask some curiosity questions? What's the ideal HRV range?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-28 16:25",
+    "sender": "Advik",
+    "message": "Generally 50-70 beats per minute; your current score is 55. We can work towards improving that",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 16:41",
+    "sender": "Carla",
+    "message": "New nutrition plan will help with sleep quality too; let's monitor Garmin data for insights",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 17:57",
+    "sender": "Ruby",
+    "message": "Travel advisory: adjust to Jakarta time zone (+7 hours) and prioritize self-care during business trips",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-28 17:58",
+    "sender": "Rohan",
+    "message": "Will do, Ruby. Thanks for the reminders!",
+    "event": "followup"
+  }
+]

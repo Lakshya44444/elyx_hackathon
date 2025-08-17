@@ -1,0 +1,176 @@
+[
+  {
+    "timestamp": "2025-08-16 08:44",
+    "sender": "Sarah",
+    "message": "Hey team, just a reminder that our weekly check-in is today!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-16 09:01",
+    "sender": "Ruby",
+    "message": "Good morning! I'm checking in to see how we can remove any blockers and keep everyone on track.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-16 10:50",
+    "sender": "Rohan",
+    "message": "Thanks, Ruby. I appreciate it.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-16 11:20",
+    "sender": "Advik",
+    "message": "Hey Rohan, don't worry about missing some hotel workouts last week. Let me adjust your plan to get you back on track.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-16 11:24",
+    "sender": "Rohan",
+    "message": "Thanks, Advik! What do you recommend for recovery? Should I try sauna or cold plunge?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-08-16 13:25",
+    "sender": "Dr. Warren",
+    "message": "Both great options, Rohan! Sauna can help relax muscles, while cold plunge reduces inflammation. Try both and see what works best for you.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-16 13:40",
+    "sender": "Rohan",
+    "message": "Got it. Also, do you think magnesium/ashwagandha supplements would help with sleep?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-16 13:46",
+    "sender": "Carla",
+    "message": "Hey Rohan, don't forget that social dinners are a great way to connect with colleagues! Here's a hack: eat like a local, try new things, and skip seconds if needed.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-16 14:09",
+    "sender": "Rohan",
+    "message": "Thanks for the reminder, Carla! What about HIIT vs cardio? Which one is better for burning calories?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-16 14:25",
+    "sender": "Advik",
+    "message": "Good question, Rohan! Both effective, but HIIT is great for improving insulin sensitivity. Cardio's good for steady-state exercise.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-16 14:32",
+    "sender": "Sarah",
+    "message": "Hey team, just a heads up that Rohan will be back in Singapore this week (no travel). Let's adjust schedules accordingly.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-16 15:07",
+    "sender": "Rohan",
+    "message": "Thanks, Sarah! One more thing: what's the best time to drink coffee for energy and focus?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-16 15:37",
+    "sender": "Dr. Warren",
+    "message": "Morning or early afternoon is usually best, Rohan. Avoid too close to bedtime, though!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-16 16:25",
+    "sender": "Rachel",
+    "message": "Hey everyone, don't forget that our test panel is due after Week 36. Let's stay on track!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-20 08:06",
+    "sender": "Sarah",
+    "message": "Hey team! Rohan's PA here. Catching up on schedule. Anything urgent?",
+    "event": "escalation"
+  },
+  {
+    "timestamp": "2025-08-20 08:50",
+    "sender": "Ruby",
+    "message": "Hi Sarah! Just a quick check-in. How can I remove any blockers for Rohan this week?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-20 09:08",
+    "sender": "Sarah",
+    "message": "Thanks Ruby! Nothing major, just some tweaks to his workout routine.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-20 10:31",
+    "sender": "Advik",
+    "message": "Hey Sarah/Rohan, just got the new hotel workout plan updated based on last week's misses. Let me know if you have any questions!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-20 10:54",
+    "sender": "Rohan",
+    "message": "Hey Advik, thanks! Just wondering, sauna and cold plunge for recovery? Worth trying?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-20 11:07",
+    "sender": "Advik",
+    "message": "Good combo! Sauna for muscle relaxation, cold plunge for inflammation reduction. Try it out and see how your body reacts!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-20 11:27",
+    "sender": "Rohan",
+    "message": "Cool! What about magnesium and ashwagandha for sleep? Which one's more effective?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-20 11:54",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Both can help with sleep quality, but magneisum might be a better option for you.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-20 12:09",
+    "sender": "Rohan",
+    "message": "Got it! Also, what's the difference between HIIT and cardio workouts?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-20 12:11",
+    "sender": "Sarah",
+    "message": "Hey Rohan! That's a great question! I'll send you an article on it. You want me to schedule it in?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-08-20 12:33",
+    "sender": "Rohan",
+    "message": "Yeah, please do!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-20 12:44",
+    "sender": "Carla",
+    "message": "Hi Rohan! Just wanted to share some dining-out hacks since you slipped up at social dinners last week",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-20 13:52",
+    "sender": "Rohan",
+    "message": "Thanks Carla! Need all the help I can get",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-20 14:23",
+    "sender": "Rachel",
+    "message": "Hey team! Reminder that our test panel is due after Week 36. Let's stay on track!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-20 17:10",
+    "sender": "Sarah",
+    "message": "Will do, Rachel! Thanks for the reminder!",
+    "event": "followup"
+  }
+]

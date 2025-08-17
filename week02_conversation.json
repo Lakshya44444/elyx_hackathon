@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": "2025-01-22 08:36",
+    "sender": "Rohan",
+    "message": "Help me prioritize this week",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 08:57",
+    "sender": "Sarah",
+    "message": "No travel planned, focus on habit building!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-22 11:16",
+    "sender": "Ruby",
+    "message": "Reminder: schedule weekly check-in at 3 PM SGT today",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-22 11:20",
+    "sender": "Dr. Warren",
+    "message": "Let's aim for 7 hours of sleep tonight, Rohan",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 11:22",
+    "sender": "Carla",
+    "message": "New meal plan updated! Check the app for breakfast options",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 11:26",
+    "sender": "Rohan",
+    "message": "How do I track my blood pressure daily?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-22 12:03",
+    "sender": "Advik",
+    "message": "Use our mobile app to monitor biometrics and receive reminders!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-22 13:33",
+    "sender": "Rachel",
+    "message": "First exercise update: 3x 15-minute walks this week",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 14:34",
+    "sender": "Neel",
+    "message": "Keep in mind, small changes today lead to a healthier tomorrow",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-22 14:47",
+    "sender": "Carla",
+    "message": "Don't forget to drink at least 8 glasses of water today",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 14:59",
+    "sender": "Rohan",
+    "message": "What are the best exercises for improving blood flow?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-22 15:18",
+    "sender": "Dr. Warren",
+    "message": "Aerobic exercises like walking or cycling can help",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 15:33",
+    "sender": "Ruby",
+    "message": "Reminder: log your daily habits and measurements in the app",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-22 15:42",
+    "sender": "Advik",
+    "message": "Biometric data shows you're averaging 6 hours of sleep",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 16:00",
+    "sender": "Neel",
+    "message": "Aim for 1 hour of relaxation time today to reduce stress",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 16:26",
+    "sender": "Rohan",
+    "message": "Can I replace one meal with a green smoothie?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-22 16:55",
+    "sender": "Carla",
+    "message": "Absolutely! Green smoothies can be a great healthy option",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-22 17:00",
+    "sender": "Dr. Warren",
+    "message": "Keep in mind to balance your nutrient intake",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 08:37",
+    "sender": "Rohan",
+    "message": "Hey Elyx team, feeling good after yesterday's exercise session",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 08:39",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Great to hear that. Remember to take your meds on time today?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-23 08:46",
+    "sender": "Sarah",
+    "message": "Good reminder Ruby! What's your schedule like for today?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-23 09:42",
+    "sender": "Rohan",
+    "message": "Meetings all day, but I'll try to squeeze in a walk during lunch break",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 10:11",
+    "sender": "Advik",
+    "message": "That's the spirit, Rohan! How many steps do you think you can get in?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-23 11:01",
+    "sender": "Rohan",
+    "message": "Hmm, maybe 5k? Let me check my watch later",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-23 12:14",
+    "sender": "Carla",
+    "message": "Hi Rohan! Your biweekly nutrition update is ready. Check your files!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 12:20",
+    "sender": "Rachel",
+    "message": "Hey Rohan! Your exercise program for this week is uploaded. Take a look!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 12:37",
+    "sender": "Rohan",
+    "message": "Thanks, guys! Can you share some tips on staying hydrated during travel?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-23 13:34",
+    "sender": "Neel",
+    "message": "Excellent question, Rohan! Staying hydrated is key. Keep a refillable bottle handy",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-23 14:51",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Don't forget to take your meds at the same time every day",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 15:15",
+    "sender": "Sarah",
+    "message": "Good reminder, Dr. Warren! What's your top priority for this week, Rohan?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-23 15:37",
+    "sender": "Rohan",
+    "message": "Getting into a routine and setting healthy habits. How can I track progress?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-23 15:56",
+    "sender": "Advik",
+    "message": "We'll help you with that, Rohan! Our tracking system will provide insights soon",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-23 16:02",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Don't forget to schedule your evening walk in today's planner",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-23 16:07",
+    "sender": "Neel",
+    "message": "Great reminder, Ruby! Remember to prioritize self-care during your busy week",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-23 16:24",
+    "sender": "Rohan",
+    "message": "Got it! Thanks for the reminders, Elyx team. Looking forward to tomorrow's call",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-23 16:54",
+    "sender": "Rohan",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 08:11",
+    "sender": "Rohan",
+    "message": "Hi, any updates on exercise plan?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-24 10:07",
+    "sender": "Ruby",
+    "message": "Exercise guidelines sent to your inbox, review and let me know if you have questions!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 10:10",
+    "sender": "Carla",
+    "message": "Nutrition plan update: try to increase fiber intake today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 11:01",
+    "sender": "Rohan",
+    "message": "Got it! How's that going to help with my high blood pressure?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-24 11:16",
+    "sender": "Advik",
+    "message": "Biometrics data collection starts next week. No worries for now!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 11:22",
+    "sender": "Sarah",
+    "message": "Don't forget to prioritize hydration throughout the day, Rohan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 11:26",
+    "sender": "Dr. Warren",
+    "message": "Remember, small changes add up. Focus on habit formation this week.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-24 11:38",
+    "sender": "Rohan",
+    "message": "Thanks! I'm curious about meditation's role in stress management. Can we explore that later?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-24 11:45",
+    "sender": "Neel",
+    "message": "Keep in mind your busy schedule, Rohan. Prioritize self-care when you can.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-24 12:03",
+    "sender": "Ruby",
+    "message": "Quick reminder: exercise and nutrition updates will be biweekly from now on!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-24 12:26",
+    "sender": "Sarah",
+    "message": "Timezone alert: all Elyx team members are based in Singapore (SGT). Let's coordinate accordingly!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-24 13:15",
+    "sender": "Rohan",
+    "message": "What are the most important vitamins or supplements I should focus on for heart health?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-24 13:59",
+    "sender": "Carla",
+    "message": "Great question! We'll cover that during your upcoming consultation. Stay tuned!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 14:06",
+    "sender": "Dr. Warren",
+    "message": "Don't worry if you miss a day; we're here to support you in establishing new habits.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-24 15:26",
+    "sender": "Advik",
+    "message": "Keep me posted on any biometric data questions, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 08:58",
+    "sender": "Rohan",
+    "message": "Hey, feeling good about settling into routine here.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 11:19",
+    "sender": "Sarah",
+    "message": "Great to hear that, Rohan! Just a reminder: our team is available in SGT timezone for any questions or concerns.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-25 12:08",
+    "sender": "Ruby",
+    "message": "Hi Rohan, just a friendly nudge - don't forget to log your daily habits in the app.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 12:59",
+    "sender": "Rohan",
+    "message": "Will do, thanks Ruby!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 13:44",
+    "sender": "Dr. Warren",
+    "message": "Remember to prioritize hydration and gentle stretching exercises today, Rohan.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 13:54",
+    "sender": "Carla",
+    "message": "Your biweekly nutrition update is here: 1500 calories with balanced macros. Enjoy your meals!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 13:57",
+    "sender": "Rohan",
+    "message": "Thanks Carla! What's the exercise plan for this week?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-25 13:57",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Our exercise plan for Week 2 includes 30-minute walks and gentle yoga to get you started.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 14:33",
+    "sender": "Advik",
+    "message": "Hey Rohan, just a heads up - your biometric data is looking great so far. Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-25 14:40",
+    "sender": "Rohan",
+    "message": "Thanks Advik! What's the best way to track my progress?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-25 14:59",
+    "sender": "Neel",
+    "message": "Hi Rohan, keep in mind that consistency is key. Remember why you joined Elyx and let that motivate you.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-25 15:51",
+    "sender": "Rohan",
+    "message": "Got it, thanks Neel. I have a question - how do you guys handle travel stress during this program?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-25 16:53",
+    "sender": "Sarah",
+    "message": "Great question, Rohan! We're here to support you, even with travel planning. Let's discuss your next trip in advance.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-25 17:46",
+    "sender": "Ruby",
+    "message": "Don't forget to take those daily supplements, Rohan. They'll help with overall health and well-being.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 08:15",
+    "sender": "Rohan",
+    "message": "Hey team, how's it going?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-26 09:22",
+    "sender": "Sarah",
+    "message": "Hi Rohan! Settling into rhythm today!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 09:53",
+    "sender": "Ruby",
+    "message": "Don't forget to log your daily habits, Rohan!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 11:22",
+    "sender": "Carla",
+    "message": "Your first nutrition update is in - let me know if you have questions!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 12:06",
+    "sender": "Advik",
+    "message": "Biometrics data syncing up nicely, Rohan. Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 13:26",
+    "sender": "Rohan",
+    "message": "How's my blood pressure trending so far?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-26 13:32",
+    "sender": "Dr. Warren",
+    "message": "It looks good, Rohan! Small increases but manageable.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 13:53",
+    "sender": "Rohan",
+    "message": "Great, thanks for the update! What about exercise goals?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-26 13:57",
+    "sender": "Rachel",
+    "message": "Your first exercise plan is in - take a look and let me know if you have questions!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-26 14:39",
+    "sender": "Rohan",
+    "message": "Awesome, I'll review tonight. Any tips on managing jet lag?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-26 16:36",
+    "sender": "Neel",
+    "message": "Just remember to prioritize sleep and adjust your routine accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-01-26 17:29",
+    "sender": "Ruby",
+    "message": "Rohan, don't forget to schedule your upcoming test tomorrow (SGT).",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-26 17:43",
+    "sender": "Rohan",
+    "message": "Tomorrow? Wait, what test is that again?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 10:11",
+    "sender": "Rohan",
+    "message": "Hey, any tips for staying on track with new habits?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-27 10:16",
+    "sender": "Sarah",
+    "message": "Simple: set reminders, prioritize sleep, and make a morning routine!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-27 10:52",
+    "sender": "Ruby",
+    "message": "Reminder: our next call is tomorrow at 2 PM SGT. Don't forget to join!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-27 11:09",
+    "sender": "Carla",
+    "message": "Biweekly update: trying some Mediterranean-inspired meals this week. How's your diet going?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-27 12:17",
+    "sender": "Rohan",
+    "message": "Not bad, but curious - what are the key nutritional benefits of Mediterranean cuisine?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-01-27 12:54",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Just a quick reminder to keep track of your blood pressure readings.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-01-27 13:09",
+    "sender": "Advik",
+    "message": "Hey Rohan, just wanted to check in on your wearable data sync.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-27 15:30",
+    "sender": "Neel",
+    "message": "Remember, consistency is key. Aim for 3-4 days of exercise this week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-27 15:57",
+    "sender": "Rachel",
+    "message": "Update: I've programmed some gentle exercises to get you started. Give it a try!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-27 16:31",
+    "sender": "Rohan",
+    "message": "Do you have any tips for managing travel stress on top of new habits?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-27 17:30",
+    "sender": "Sarah",
+    "message": "Yes! Try packing healthy snacks, and schedule relaxation time before flights.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-01-27 17:33",
+    "sender": "Carla",
+    "message": "One more nutrition question - are there specific supplements I should consider?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-28 08:15",
+    "sender": "Rohan",
+    "message": "Morning! How's my habit tracker looking?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-28 08:27",
+    "sender": "Ruby",
+    "message": "Good morning Rohan! Your habits are settling in nicely.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 09:43",
+    "sender": "Sarah",
+    "message": "Hi Rohan, just a reminder to schedule your exercise session today (SGT).",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-01-28 10:19",
+    "sender": "Dr. Warren",
+    "message": "Remember to take your blood pressure meds on time today!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 10:40",
+    "sender": "Carla",
+    "message": "First biweekly update: you're averaging 2/3 veggies servings daily. Keep it up!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 10:56",
+    "sender": "Rohan",
+    "message": "Any tips for improving sleep quality? I'm still waking up a bit groggy.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-01-28 11:12",
+    "sender": "Advik",
+    "message": "Try establishing a consistent bedtime routine, Rohan! We can discuss more later.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 13:55",
+    "sender": "Sarah",
+    "message": "Exercise update: your first biweekly average is 30 minutes per session. Well done!",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-01-28 15:34",
+    "sender": "Rohan",
+    "message": "What's the ideal heart rate zone for my age group?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-01-28 15:57",
+    "sender": "Neel",
+    "message": "For men in their 40s like you, Rohan, a good target heart rate zone is 50-60% of max HR.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 16:31",
+    "sender": "Carla",
+    "message": "Nutrition update: your daily caloric intake is averaging 2200 calories. Keep an eye on that!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-01-28 17:38",
+    "sender": "Rohan",
+    "message": "How often should I aim to drink at least 8 glasses of water daily?",
+    "event": "question"
+  }
+]

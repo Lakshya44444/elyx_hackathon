@@ -1,0 +1,266 @@
+[
+  {
+    "timestamp": "2025-07-31 08:01",
+    "sender": "Rohan",
+    "message": "Hey team! New workout program update from Advik?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-31 08:43",
+    "sender": "Sarah",
+    "message": "Ah, yes! Advik's sending an update every 2 weeks to track progress.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 09:00",
+    "sender": "Advik",
+    "message": "Hey Rohan! Update attached. Let me know if you have any questions!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 09:43",
+    "sender": "Rohan",
+    "message": "Ruby, I'm struggling with ~50% adherence. Any suggestions for small swaps/tweaks?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-31 10:14",
+    "sender": "Ruby",
+    "message": "Ah, Rohan! Try swapping cardio days with strength training or adding more HIIT sessions. Tweaking your nutrition could also help.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-07-31 12:27",
+    "sender": "Rohan",
+    "message": "Hey team! What's the best approach to fasting vs eating pre-workout? Anyone have insights?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-31 12:39",
+    "sender": "Carla",
+    "message": "Fasting pre-workout can be tough, but some people swear by it. Try experimenting and see what works for you!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 13:03",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Fasting before workout is okay, but eating a balanced meal 1-2 hours prior might give you more energy.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 13:32",
+    "sender": "Rohan",
+    "message": "Hey team! Any recommendations for supplements that support brain health?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-07-31 13:39",
+    "sender": "Advik",
+    "message": "Actually, Rohan, omega-3 and B vitamins are great for brain health. You can also look into phosphatidylserine.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 13:48",
+    "sender": "Rohan",
+    "message": "Sleep debt is real! How do you guys handle it? Do you track HRV too?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-31 16:00",
+    "sender": "Rachel",
+    "message": "Hey Rohan! I use a sleep tracker and prioritize winding down before bed. Tracking HRV helps me optimize my recovery.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 16:00",
+    "sender": "Neel",
+    "message": "Yeah, tracking HRV can be super helpful. It shows when your body needs more rest or recovery.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-07-31 16:07",
+    "sender": "Rohan",
+    "message": "Sauna or steam room? Which is better for recovery?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-07-31 17:51",
+    "sender": "Ruby",
+    "message": "Both are great! Sauna's amazing for detox and relaxation, while steam rooms help with flexibility and warmth.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-01 08:28",
+    "sender": "Rohan",
+    "message": "Hey, what's the latest on my workout program? When's the next update?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-01 08:32",
+    "sender": "Advik",
+    "message": "Hi Rohan! Your 6-week progress report is due in 2 weeks. Keep crushing it!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-01 08:33",
+    "sender": "Sarah",
+    "message": "Rohan just asked about his workout program.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-01 08:42",
+    "sender": "Ruby",
+    "message": "Hey Rohan! You're at 50% adherence. Let's make some small swaps/tweaks to boost that number.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-01 08:56",
+    "sender": "Rohan",
+    "message": "Thanks for the nudge, Ruby. What do you suggest?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-08-01 09:58",
+    "sender": "Ruby",
+    "message": "How about switching up your warm-up routine or adding some extra reps?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-01 10:00",
+    "sender": "Rohan",
+    "message": "Sounds good! Any thoughts on fasting vs eating pre-workout? Which one gives me more energy?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-01 13:28",
+    "sender": "Sarah",
+    "message": "Rohan wants to know if fasting is better than eating before workout for energy.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-01 15:06",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Fasting can give you a temporary energy boost, but it's not always the best approach. Eating a balanced meal 1-2 hours pre-workout works well for most people.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-01 16:06",
+    "sender": "Rohan",
+    "message": "Got it! What about supplements for brain health? Are there any good ones?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-01 16:31",
+    "sender": "Carla",
+    "message": "Hey Rohan! Omega-3 and BDNF-supporting supplements can be helpful for brain health. Consult with your doctor before adding anything new!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-01 17:38",
+    "sender": "Rohan",
+    "message": "Thanks, Carla! Any tips on how to tackle sleep debt?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-08-01 17:58",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Aim for 7-8 hours of sleep each night. Consistency is key.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-06 08:42",
+    "sender": "Rohan",
+    "message": "Hey Advik, how's my new workout program looking? Need any adjustments?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-06 10:20",
+    "sender": "Advik",
+    "message": "Hey Rohan! Your progress is great! Just need to tweak your warm-up exercises. I'll send you an updated schedule.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-06 10:49",
+    "sender": "Sarah",
+    "message": "Hi Ruby, just got a message from Rohan about his workout. What's the update on his adherence rate?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-06 11:11",
+    "sender": "Ruby",
+    "message": "Hey Sarah! Rohan's at 45% adherence. We should make some small swaps/tweaks to get him closer to 50%. Small wins will add up!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-06 11:39",
+    "sender": "Rohan",
+    "message": "Thanks for the feedback, Ruby. I've been wondering, is it better to fast before a workout or eat something light?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-06 13:14",
+    "sender": "Advik",
+    "message": "Hey Rohan! Fasting pre-workout can be beneficial for fat-burning, but eating a balanced snack might provide more energy. Try both and see what works best for you!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-06 13:42",
+    "sender": "Rohan",
+    "message": "Got it. What about supplements for brain health? Worth investing in?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-06 13:48",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Some brain-boosting supplements like omega-3s and Ginkgo Biloba can be beneficial. However, always consult with Dr. Warren before adding any new supplements.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-06 14:02",
+    "sender": "Rohan",
+    "message": "Cool. How do I tackle my sleep debt? Been having trouble sleeping lately.",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-06 14:43",
+    "sender": "Carla",
+    "message": "Hey Rohan! Try establishing a consistent bedtime routine and avoiding screens for at least an hour before bed. Also, consider speaking with Dr. Warren about potential sleep-related issues.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-06 14:48",
+    "sender": "Rohan",
+    "message": "Thanks Carla. What's the deal with HRV tracking? Worth monitoring?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-06 14:55",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! HRV tracking can be useful for monitoring stress levels and optimizing workouts. I'll send you some recommendations on how to get started.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-08-06 15:04",
+    "sender": "Rohan",
+    "message": "Awesome, thanks Dr. Warren. What about sauna sessions? Any benefits for me?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-06 15:27",
+    "sender": "Rachel",
+    "message": "Hey Rohan! Sauna sessions can help with detoxification and relaxation. Just be sure to stay hydrated afterwards!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-06 17:07",
+    "sender": "Sarah",
+    "message": "Hi everyone! Reminder that Rohan doesn't have any travel plans this week, so his routine should remain stable.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-06 17:31",
+    "sender": "Rohan",
+    "message": "Thanks Sarah! Looking forward to a productive week in Singapore",
+    "event": "test"
+  }
+]

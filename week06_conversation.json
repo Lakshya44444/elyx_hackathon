@@ -1,0 +1,668 @@
+[
+  {
+    "timestamp": "2025-02-05 08:39",
+    "sender": "Rohan",
+    "message": "Blood panel scheduling this week, thanks for the reminder Sarah!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-05 08:53",
+    "sender": "Sarah",
+    "message": "Done! You're all set with Dr. Warren's team.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-02-05 09:29",
+    "sender": "Ruby",
+    "message": "Exercise adjustments coming up, hotel-friendly workouts to maintain progress",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-05 09:50",
+    "sender": "Rohan",
+    "message": "Need some HRV dip and sleep guidance ASAP, please!",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-05 12:32",
+    "sender": "Carla",
+    "message": "Ruby will send you a customized plan tonight, stay tuned!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-05 12:34",
+    "sender": "Advik",
+    "message": "Nutrition question - is fish oil okay for my gut health?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-05 13:40",
+    "sender": "Sarah",
+    "message": "Advik, consult with Dr. Warren's team before adding anything new.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-05 13:48",
+    "sender": "Ruby",
+    "message": "Curious about your travel plans Rohan? Any gym access or workout worries?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-05 14:28",
+    "sender": "Rohan",
+    "message": "Flight fatigue and diet challenges ahead. Need some advice on adapting.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-05 14:57",
+    "sender": "Neel",
+    "message": "Don't forget to stay hydrated during flights and adjust your meal plans accordingly!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-05 17:09",
+    "sender": "Sarah",
+    "message": "Adherence is around 50% this week, let's make adjustments for better results",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-05 17:35",
+    "sender": "Rachel",
+    "message": "Hotel gyms can be challenging; prioritize rest and recovery over intense workouts",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-06 08:01",
+    "sender": "Rohan",
+    "message": "Blood panel scheduled for tomorrow, thanks Sarah",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-06 08:06",
+    "sender": "Sarah",
+    "message": "Done! Ruby is confirming appointment details",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-02-06 09:11",
+    "sender": "Ruby",
+    "message": "Appointment set for 10am at Dr. Warren's office",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-02-06 09:29",
+    "sender": "Rohan",
+    "message": "Exercise update - need hotel-friendly adjustments please",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-06 10:18",
+    "sender": "Advik",
+    "message": "I've updated your routine with lighter weights and shorter sessions",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-06 10:47",
+    "sender": "Rohan",
+    "message": "HRV dips persisting - any sleep tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-06 12:11",
+    "sender": "Carla",
+    "message": "Aim for 7-8 hours of sleep, prioritize relaxation before bed",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-06 13:23",
+    "sender": "Rohan",
+    "message": "Fish oil supplement question - any guidance?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-06 13:41",
+    "sender": "Dr. Warren",
+    "message": "Omega-3 benefits remain unchanged; consult doc before changes",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-06 13:45",
+    "sender": "Rohan",
+    "message": "Traveling this week - flight fatigue concerns",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-06 14:26",
+    "sender": "Sarah",
+    "message": "Will you be in a different timezone? Need to adjust routine",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-06 15:26",
+    "sender": "Rohan",
+    "message": "Yeah, and hotel gym options are limited... any tips?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-06 17:34",
+    "sender": "Neel",
+    "message": "Short workouts, focus on bodyweight exercises & stretching",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-07 08:21",
+    "sender": "Rohan",
+    "message": "Hey Sarah, need to reschedule blood panel this week, please.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-07 08:37",
+    "sender": "Sarah",
+    "message": "Done! Appointment is set for Friday at 9 am.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-02-07 08:44",
+    "sender": "Ruby",
+    "message": "Exercise adjustments coming! Hotel-friendly workouts to reduce impact.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-07 09:34",
+    "sender": "Rohan",
+    "message": "What about HRV dips? Any tips on improving sleep?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-07 09:44",
+    "sender": "Dr. Warren",
+    "message": "Yes, prioritize relaxation techniques and avoid screens before bed.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-07 10:09",
+    "sender": "Advik",
+    "message": "Rohan, I've got a question about fish oil supplements. Can we discuss?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-07 10:25",
+    "sender": "Rohan",
+    "message": "Yeah, what's the best time to take it?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-07 12:31",
+    "sender": "Carla",
+    "message": "Flight fatigue is real! Be gentle with yourself this week, okay?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-07 12:58",
+    "sender": "Sarah",
+    "message": "Reminder: you're traveling this week, so let's adjust adherence goals.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-07 13:12",
+    "sender": "Rohan",
+    "message": "Timezone shifts got me confused. What's the best gym routine at the hotel?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-07 13:51",
+    "sender": "Neel",
+    "message": "Don't forget about diet challenges when crossing time zones. Stay hydrated!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-07 15:20",
+    "sender": "Carla",
+    "message": "Sleep quality might suffer due to travel. Prioritize rest and relaxation.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-07 15:39",
+    "sender": "Sarah",
+    "message": "We're tracking ~50% adherence so far. Let's make some adjustments, okay?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-07 16:00",
+    "sender": "Rohan",
+    "message": "What's a good workout routine for hotel gyms? Minimal equipment needed?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-07 16:08",
+    "sender": "Ruby",
+    "message": "We can modify your exercises to use minimal equipment and fit hotel space.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-07 16:54",
+    "sender": "Dr. Warren",
+    "message": "Remember to stay hydrated during flights and adjust salt intake if needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-07 17:47",
+    "sender": "Advik",
+    "message": "Any tips on reducing jet lag fatigue? I'm struggling!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-08 08:12",
+    "sender": "Rohan",
+    "message": "Hey Sarah, need to schedule blood panel this week",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-08 08:32",
+    "sender": "Sarah",
+    "message": "Done! Panel booked for Friday morning",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-02-08 09:24",
+    "sender": "Ruby",
+    "message": "Rohan, hotel gym options? Want to prep your workout plan",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-08 11:05",
+    "sender": "Rohan",
+    "message": "Yeah, got a bunch of hotels with gyms on my trip. Thanks Ruby!",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-08 11:31",
+    "sender": "Advik",
+    "message": "Hey Rohan, HRV dips been steady? Any sleep issues?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-08 13:22",
+    "sender": "Rohan",
+    "message": "Yeah, had some weird dreams last night. Advik, any tips?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-08 14:23",
+    "sender": "Advik",
+    "message": "Try to establish a consistent sleep schedule while traveling",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-08 14:47",
+    "sender": "Sarah",
+    "message": "Rohan, need you to confirm nutrition plan adjustments for travel",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-08 15:09",
+    "sender": "Rohan",
+    "message": "Cool, what changes do I need to make?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-08 15:24",
+    "sender": "Carla",
+    "message": "Hey Rohan, curious about fish oil benefits? Worth it?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-08 16:14",
+    "sender": "Rohan",
+    "message": "Yeah, Carla, that's been on my mind too. What are the pros?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-08 16:17",
+    "sender": "Dr. Warren",
+    "message": "Fish oil can help with inflammation and joint health, Rohan",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-08 16:42",
+    "sender": "Sarah",
+    "message": "Reminder, adherence is around 50%. Let's make some adjustments",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-08 16:45",
+    "sender": "Rohan",
+    "message": "Got it, Sarah. Need to mix things up a bit",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-08 16:53",
+    "sender": "Neel",
+    "message": "Hey Rohan, how's flight fatigue been treating you? Any tips?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-08 16:59",
+    "sender": "Rohan",
+    "message": "Yeah, it's been rough. Advik, can you help me with that?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-08 17:11",
+    "sender": "Advik",
+    "message": "Try to stay hydrated and take breaks during flights, Rohan",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-08 17:38",
+    "sender": "Rachel",
+    "message": "Rohan, any hotel gym tips or must-haves for a good workout?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-09 08:16",
+    "sender": "Rohan",
+    "message": "Blood panel this week?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-09 09:15",
+    "sender": "Sarah",
+    "message": "Already scheduled for Wednesday, Rohan.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-02-09 09:30",
+    "sender": "Ruby",
+    "message": "Hotel-friendly exercises? We can recommend some floor routines or resistance band workouts.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-09 10:54",
+    "sender": "Rohan",
+    "message": "Sounds good! Any tips for HRV dips and sleep guidance?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-09 11:13",
+    "sender": "Dr. Warren",
+    "message": "Try progressive muscle relaxation before bed, Rohan. And prioritize a consistent sleep schedule.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-02-09 12:28",
+    "sender": "Rohan",
+    "message": "What's the best fish oil supplement for me?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-09 13:42",
+    "sender": "Advik",
+    "message": "Omega-3 Plus is our recommendation, Rohan. It's high-quality and easy to absorb.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-09 13:44",
+    "sender": "Rohan",
+    "message": "Why do I still get HRV dips despite good sleep?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-09 13:45",
+    "sender": "Carla",
+    "message": "Flight fatigue can cause it, Rohan. Try taking power naps during travels and prioritize relaxation techniques.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-09 14:36",
+    "sender": "Rohan",
+    "message": "Adherence ~50%. Need some adjustments!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-09 14:40",
+    "sender": "Sarah",
+    "message": "Let's focus on small changes daily, Rohan. We'll reassess in a week and make adjustments accordingly.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-09 15:47",
+    "sender": "Rohan",
+    "message": "Traveling this week, guys! Timezone shifts ahead",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-09 17:27",
+    "sender": "Rachel",
+    "message": "Don't forget to stay hydrated during flights, Rohan! And try to avoid heavy meals before landing.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-09 17:46",
+    "sender": "Neel",
+    "message": "Hotel gyms can be limited. Focusing on bodyweight exercises might be a better option, Rohan.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-09 18:00",
+    "sender": "Rohan",
+    "message": "Diet challenges ahead! Need some guidance.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-10 08:13",
+    "sender": "Rohan",
+    "message": "Hey Sarah, got my blood panel scheduled for this week?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-10 09:01",
+    "sender": "Sarah",
+    "message": "Done! You're all set with Dr. Warren's team.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-02-10 10:37",
+    "sender": "Ruby",
+    "message": "Rohan, considering hotel-friendly exercises. Suggesting gentle yoga and bodyweight moves.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-10 11:01",
+    "sender": "Rohan",
+    "message": "That sounds perfect. Thanks Ruby!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-10 11:54",
+    "sender": "Carla",
+    "message": "Did you get your HRV dips sorted out? Need sleep guidance?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-10 11:58",
+    "sender": "Rohan",
+    "message": "Yeah, Carla! HRV looks good. Just need some tips for better sleep hygiene.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-10 12:54",
+    "sender": "Sarah",
+    "message": "Rohan, Advik is working on a nutrition plan that includes fish oil. Any questions?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-10 14:00",
+    "sender": "Rohan",
+    "message": "Yeah, what's the best way to supplement with fish oil?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-10 14:12",
+    "sender": "Advik",
+    "message": "Ah, great question Rohan! Omega-3 rich oil helps with inflammation and brain health.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-10 14:27",
+    "sender": "Rachel",
+    "message": "Curious about your travel plans? What's the timezone shift looking like?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-10 14:55",
+    "sender": "Rohan",
+    "message": "Heading to LA tonight. 2-hour time difference. Need tips for staying on schedule.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-02-10 15:35",
+    "sender": "Sarah",
+    "message": "Got it! Will remind you to adjust your watch and use a sleep mask.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-10 16:15",
+    "sender": "Neel",
+    "message": "Hey Rohan, how's your adherence going? Around 50% right?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-10 16:26",
+    "sender": "Rohan",
+    "message": "Yeah, not great. Been struggling to stay consistent. Any suggestions?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-10 16:33",
+    "sender": "Ruby",
+    "message": "Don't worry Rohan! We'll get you back on track. Suggest setting smaller goals for this week.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-02-10 17:04",
+    "sender": "Carla",
+    "message": "Flight fatigue is real! Make sure to stretch and move around during travel days.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-10 17:09",
+    "sender": "Rohan",
+    "message": "Good reminder Carla!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-02-10 17:17",
+    "sender": "Advik",
+    "message": "Diet's been a challenge while traveling. Need some healthy snack ideas?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-11 08:00",
+    "sender": "Rohan",
+    "message": "Need blood panel scheduling this week, thanks!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-02-11 08:10",
+    "sender": "Sarah",
+    "message": "Done! Appointment booked for Friday.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-02-11 08:21",
+    "sender": "Ruby",
+    "message": "Adjust exercise routine for hotel-friendly workouts. Bodyweight or resistance bands?",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-11 08:45",
+    "sender": "Rohan",
+    "message": "Works for me. Thanks Ruby!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-11 09:04",
+    "sender": "Dr. Warren",
+    "message": "HRV dips indicating fatigue. Focus on sleep quality tonight & adjust morning routines tomorrow.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-11 09:30",
+    "sender": "Rohan",
+    "message": "Got it. Sleep tight",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-11 09:51",
+    "sender": "Advik",
+    "message": "Nutrition question - is fish oil okay to take during travel? Time zone changes got me worried",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-11 10:17",
+    "sender": "Carla",
+    "message": "Yes, but keep in mind potential stomach upset & digestive issues from travel stress. Adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-11 11:17",
+    "sender": "Rohan",
+    "message": "Thanks for the heads up Carla!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-11 12:22",
+    "sender": "Sarah",
+    "message": "Curiosity alert! What's your current sleep quality like?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-02-11 12:38",
+    "sender": "Rohan",
+    "message": "Hmm... not great to be honest. Been a long week",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-11 14:00",
+    "sender": "Neel",
+    "message": "Adherence rate looks around 50%. Time for some adjustments to stay on track!",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-02-11 14:03",
+    "sender": "Rohan",
+    "message": "Agreed. Help me prioritize this week.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-11 15:10",
+    "sender": "Carla",
+    "message": "Flying today, so flight fatigue is expected. Prioritize self-care tonight & rehydrate in the morning.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-11 15:24",
+    "sender": "Ruby",
+    "message": "Hotel gym plans? Morning or evening workout?",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-11 15:47",
+    "sender": "Rohan",
+    "message": "Evening works better for me, thanks Ruby!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-02-11 15:52",
+    "sender": "Dr. Warren",
+    "message": "Diet challenges ahead - keep healthy snacks handy & be mindful of airport food temptations",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-02-11 16:42",
+    "sender": "Rohan",
+    "message": "Got it! Thanks for the reminders",
+    "event": "followup"
+  }
+]

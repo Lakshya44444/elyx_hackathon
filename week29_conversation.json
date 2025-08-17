@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2025-08-08 08:55",
+    "sender": "Ruby",
+    "message": "Hey Rohan! Weekly check-in. How's progress on your goals?",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-08-08 09:49",
+    "sender": "Rohan",
+    "message": "Hi Ruby, I've been following about 50% of the plan so far. Need some tweaks.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-08 10:26",
+    "sender": "Ruby",
+    "message": "Let me take a look. What specific areas are you struggling with?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-08 11:11",
+    "sender": "Rohan",
+    "message": "I'm curious about diet timing - should I eat before or after workouts? Also, which is better for mornings/evenings?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-08 11:11",
+    "sender": "Ruby",
+    "message": "Great questions! Eating 30-60 minutes post-workout can help. Morning workouts might be better with a light snack beforehand.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-08 11:48",
+    "sender": "Rohan",
+    "message": "Thanks, Ruby! What about nootropics and sleep supplements? Should I take them at the same time?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-08 12:37",
+    "sender": "Ruby",
+    "message": "Nootropics are fine anytime, but consider taking sleep supplements 30-60 minutes before bed. Consistency is key!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-08-08 15:19",
+    "sender": "Rohan",
+    "message": "Got it! What about intermittent fasting and exercise? Can I do both simultaneously?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-08 15:49",
+    "sender": "Ruby",
+    "message": "Yes, you can do both! Just be mindful of your body's energy levels. Adjust as needed.",
+    "event": "plan_change"
+  },
+  {
+    "timestamp": "2025-08-08 16:18",
+    "sender": "Sarah",
+    "message": "Hey Ruby, just a reminder that Rohan is traveling to Hong Kong this week for business. Need help with logistics.",
+    "event": "travel"
+  },
+  {
+    "timestamp": "2025-08-08 16:26",
+    "sender": "Ruby",
+    "message": "Got it! I'll make sure to coordinate his schedule while he's away.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-08-08 17:03",
+    "sender": "Rachel",
+    "message": "Hey team, just a friendly reminder that our test panel is after Week 36. Stay focused!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-08-08 17:15",
+    "sender": "Rohan",
+    "message": "Hi Ruby, any updates on my plan?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-08-08 17:44",
+    "sender": "Ruby",
+    "message": "Yes! I've made some adjustments based on your feedback. Let me send you the revised plan.",
+    "event": "plan_change"
+  }
+]

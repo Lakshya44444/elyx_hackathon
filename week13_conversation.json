@@ -1,0 +1,602 @@
+[
+  {
+    "timestamp": "2025-04-02 09:30",
+    "sender": "Rohan",
+    "message": "Hey Sarah, I'm getting anxious about my upcoming comprehensive test panel. When do we schedule it?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 10:42",
+    "sender": "Sarah",
+    "message": "Hi Rohan! We can schedule it for next Wednesday or Friday afternoon. Which one works better for you?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-02 10:47",
+    "sender": "Ruby",
+    "message": "Rohan, just wanted to clarify that this test panel includes general health check-up, cancer screening, cardiovascular assessment, genetic testing, hormonal evaluation, body composition analysis, brain function tests, skin analysis, and nutritional assessment.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 11:18",
+    "sender": "Rohan",
+    "message": "Okay got it! What's the rationale behind each of these tests? And how do they impact my overall well-being?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 11:34",
+    "sender": "Sarah",
+    "message": "Rohan, we can send you a detailed report explaining the importance of each test. It's to identify potential health issues early on, monitor existing conditions, and provide personalized recommendations.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 12:22",
+    "sender": "Advik",
+    "message": "Hi Rohan! We just need your consent form signed before we schedule the tests. Would you like me to send it over?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 12:26",
+    "sender": "Rohan",
+    "message": "Yeah, please send it over. Also, do I need to fast or stop any medications beforehand?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-02 12:28",
+    "sender": "Carla",
+    "message": "Great question, Rohan! You'll need to fast for 12 hours before the test panel, and please confirm with your doctor about any medication changes.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 13:03",
+    "sender": "Sarah",
+    "message": "Hi Ruby, can you remind me what time frame we're looking at for the test results? And when do I expect to receive the report?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 13:47",
+    "sender": "Ruby",
+    "message": "Sarah, we usually take around 7-10 business days to process the tests. You'll receive a detailed report once all results are in.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 14:16",
+    "sender": "Rohan",
+    "message": "That sounds good! One more question - is there anything I can do to prepare or optimize my test results?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 14:21",
+    "sender": "Dr. Warren",
+    "message": "Hi Rohan! Yes, please try to get at least 7-8 hours of sleep before the tests, and avoid any strenuous activities for a day prior.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-02 15:12",
+    "sender": "Sarah",
+    "message": "Thanks for the tip, Dr. Warren! We'll send you the consent form and schedule details shortly.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-02 16:03",
+    "sender": "Rohan",
+    "message": "Sounds good! And can I get an update on my skin analysis? What's that all about?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-02 16:51",
+    "sender": "Rachel",
+    "message": "Hi Rohan! Your skin analysis will evaluate your skin elasticity, moisture levels, and any potential issues like aging or acne. It helps us identify personalized skincare recommendations.",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-04-02 17:35",
+    "sender": "Neel",
+    "message": "Hey Rohan! Just a gentle reminder to please sign the consent form as soon as possible so we can schedule your test panel accordingly.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 08:25",
+    "sender": "Sarah",
+    "message": "Hi Ruby! Rohan's comprehensive Test Panel is due next week. Can you please explain the rationale behind each test?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 10:03",
+    "sender": "Ruby",
+    "message": "General Health checks overall wellness. Cancer Screening detects potential issues early on. Cardiovascular tests monitor heart health, Genetics analyze inherited traits, Hormones assess balance, Body Composition tracks physical changes, Brain and Skin tests evaluate cognitive and physical performance, Nutritional analyzes diet impact.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 10:39",
+    "sender": "Rohan",
+    "message": "Thanks Ruby! What are the key tests I should prioritize?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 11:17",
+    "sender": "Ruby",
+    "message": "Let's focus on General Health and Cancer Screening for now. We can adjust based on results.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 13:09",
+    "sender": "Sarah",
+    "message": "Hi Advik! Can you please schedule Rohan's comprehensive Test Panel for next week? He'd like to complete it ASAP.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 13:14",
+    "sender": "Advik",
+    "message": "Done! Scheduling confirmation sent to Rohan's email.",
+    "event": "resolution"
+  },
+  {
+    "timestamp": "2025-04-03 13:32",
+    "sender": "Rohan",
+    "message": "Thanks Advik!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-03 14:37",
+    "sender": "Sarah",
+    "message": "Hi Ruby! Do we need consent from Rohan/Sarah before proceeding with the tests?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 15:45",
+    "sender": "Ruby",
+    "message": "Yes, please obtain consent. Schedule a call to discuss preferences and schedule.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-03 15:56",
+    "sender": "Sarah",
+    "message": "Will do! When can I expect the test kit to arrive?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 16:08",
+    "sender": "Ruby",
+    "message": "Expected delivery date is tomorrow.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-03 16:36",
+    "sender": "Rohan",
+    "message": "Thanks for keeping me updated!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-03 16:38",
+    "sender": "Sarah",
+    "message": "Hi Ruby! Can you explain why some tests are more important than others in this panel?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-03 16:41",
+    "sender": "Ruby",
+    "message": "General Health and Cancer Screening are crucial as they impact overall well-being. The rest provide valuable insights, but can be adjusted based on results.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 08:54",
+    "sender": "Rohan",
+    "message": "Hey Ruby, I'm due for a comprehensive test panel soon. Can you brief me on what to expect?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 09:19",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Yes, we're recommending a thorough assessment of your overall health and well-being. This includes tests for General Health, Cancer Screening, Cardiovascular, Genetics, Hormones, Body Composition, Brain function, Skin health, and Nutritional status.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 09:51",
+    "sender": "Sarah",
+    "message": "That sounds like a lot! Can you explain the reasoning behind each test?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 10:06",
+    "sender": "Ruby",
+    "message": "Of course! The General Health panel checks for signs of inflammation and oxidative stress. Cancer Screening looks at risk factors and potential biomarkers. Cardiovascular assesses your heart's function and blood vessel health. Genetics examines your inherited traits. Hormones check for imbalances. Body Composition analyzes fat percentage and muscle mass. Brain function tests cognitive abilities. Skin health evaluates for signs of aging or disease. Nutritional status assesses your diet and absorption.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 10:46",
+    "sender": "Rohan",
+    "message": "Okay, I think I get it! Can I schedule the tests for next week?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 11:46",
+    "sender": "Ruby",
+    "message": "Let me check availability... Yes, we can schedule you for next Thursday.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 11:57",
+    "sender": "Sarah",
+    "message": "What time is preferred? Morning or afternoon?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-04 13:44",
+    "sender": "Ruby",
+    "message": "We have 10 am and 2 pm slots available. Which one works better for you?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-04 13:53",
+    "sender": "Rohan",
+    "message": "I'll take the 10 am slot.",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-04 15:20",
+    "sender": "Advik",
+    "message": "Rohan, don't forget to complete your family medical history questionnaire by tomorrow!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-04 15:33",
+    "sender": "Rohan",
+    "message": "Got it! Will do today.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-04 15:54",
+    "sender": "Carla",
+    "message": "Hi Rohan, just a quick question - what's your favorite fruit?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-04 16:07",
+    "sender": "Rohan",
+    "message": "Ah, that's an easy one! Mangoes all the way!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-04 17:27",
+    "sender": "Rachel",
+    "message": "Hey Rohan, can you please confirm if you want to receive your test results via email or text message?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-05 08:17",
+    "sender": "Rohan",
+    "message": "Hey, I'm due for a comprehensive test panel soon. What's included?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-05 08:30",
+    "sender": "Sarah",
+    "message": "Hi Rohan! You'll be getting tests for General Health, Cancer Screening, Cardiovascular, Genetics, Hormones, Body Composition, Brain, and Skin.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-05 09:10",
+    "sender": "Ruby",
+    "message": "We recommend these tests to get a holistic view of your health. Any concerns or preferences?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-05 12:14",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 12:39",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 13:13",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 13:45",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 14:30",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 14:33",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 14:47",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 15:36",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 15:47",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 15:59",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 17:01",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 17:20",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 17:27",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-05 17:33",
+    "sender": "Ruby",
+    "message": "Noted.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-06 08:32",
+    "sender": "Sarah",
+    "message": "Hey Ruby, need your expertise! Rohan's Test Panel is due soon & I need guidance on which tests to prioritize.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 08:47",
+    "sender": "Ruby",
+    "message": "Hi Sarah! Let's focus on General Health, Cancer Screening, Cardiovascular, and Genetics for a comprehensive view. Hormones and Body Composition can wait.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-06 10:24",
+    "sender": "Rohan",
+    "message": "Sounds good. Can you explain why these are important?",
+    "event": "education"
+  },
+  {
+    "timestamp": "2025-04-06 11:45",
+    "sender": "Sarah",
+    "message": "Sure thing! General Health checks overall well-being. Cancer Screening catches potential issues early. Cardiovascular assesses heart health & risk factors. Genetics sheds light on inherited traits.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-06 11:55",
+    "sender": "Ruby",
+    "message": "And what about Brain, Skin, and Nutritional tests? Should we include those too?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 12:04",
+    "sender": "Rohan",
+    "message": "Yeah, add Brain & Skin. What do you think about Nutritional tests? Worth the extra cost?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 13:06",
+    "sender": "Sarah",
+    "message": "We can discuss that with Dr. Warren later. For now, let's focus on the priority tests.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 13:20",
+    "sender": "Ruby",
+    "message": "Agreed! When would Rohan like to schedule the panel?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 13:28",
+    "sender": "Sarah",
+    "message": "Can you send a list of dates and we'll finalize it with him?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-06 14:02",
+    "sender": "Rohan",
+    "message": "How about next Monday or Wednesday? Which one works best for Ruby?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-06 14:57",
+    "sender": "Advik",
+    "message": "Hi Sarah! Just a reminder that Rohan needs to complete his health questionnaire before the test.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 15:34",
+    "sender": "Sarah",
+    "message": "Got it, Advik. I'll remind Rohan today.",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-04-06 16:02",
+    "sender": "Rohan",
+    "message": "Quick question - how accurate are these tests?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 16:46",
+    "sender": "Ruby",
+    "message": "Most are 95%+ accurate, but some may have variations depending on the test type.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-06 17:53",
+    "sender": "Rohan",
+    "message": "That's good enough! Thanks, Ruby.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-07 08:56",
+    "sender": "Sarah",
+    "message": "Hey Ruby! Need update on Rohan's comprehensive Test Panel. Can you send me details?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-07 10:21",
+    "sender": "Ruby",
+    "message": "Hi Sarah! Comprehensive panel includes General Health, Cancer Screening, Cardiovascular, Genetics, Hormones, Body Composition, Brain, and Skin tests. Which ones are must-haves for Rohan?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-07 10:31",
+    "sender": "Sarah",
+    "message": "Thanks, Ruby! Want to confirm with Rohan/Sarah first.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-07 11:22",
+    "sender": "Rohan",
+    "message": "Hey guys! Can I schedule the test for next week? What's the rush?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-07 12:17",
+    "sender": "Ruby",
+    "message": "No rush, but we need to complete some prep work. We can discuss preferences tomorrow morning?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-07 12:56",
+    "sender": "Sarah",
+    "message": "Sounds good. Need consent from Rohan before scheduling.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-07 13:16",
+    "sender": "Advik",
+    "message": "Hi Rohan! Just a heads up, you have 3 outstanding tasks on your Elyx portal. Can you please update by tomorrow?",
+    "event": "question"
+  },
+  {
+    "timestamp": "2025-04-07 13:42",
+    "sender": "Rohan",
+    "message": "Ah, thanks for the nudge, Advik!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-07 14:31",
+    "sender": "Carla",
+    "message": "Hey Sarah! Can I get an update on Rohan's test schedule? We need to prepare some samples.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-07 14:33",
+    "sender": "Sarah",
+    "message": "Hi Carla! Will get back to you once we confirm with Rohan/Sarah. Thanks for reminding me!",
+    "event": "followup"
+  },
+  {
+    "timestamp": "2025-04-07 17:08",
+    "sender": "Ruby",
+    "message": "Hi Rohan! Just wondering what sparked your interest in the Brain test?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-07 17:29",
+    "sender": "Rohan",
+    "message": "Curious about my brain health, I guess!",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-08 08:18",
+    "sender": "Rohan",
+    "message": "Hey team, need guidance on upcoming comprehensive test panel. Which ones should I prioritize?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 08:41",
+    "sender": "Sarah",
+    "message": "Hi Ruby! Rohan wants to know which tests to focus on. What's your advice?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 08:47",
+    "sender": "Ruby",
+    "message": "Hi Sarah! For General Health and Cancer Screening, it's crucial. Cardiovascular and Genetics are important too.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-08 08:57",
+    "sender": "Rohan",
+    "message": "Got it! So no surprise that I'm getting a bit anxious about the hormones test",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 09:13",
+    "sender": "Sarah",
+    "message": "Understandable, Rohan! It's just a routine check-up.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-08 10:38",
+    "sender": "Advik",
+    "message": "Don't forget to include Body Composition and Brain tests for overall wellness!",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 10:54",
+    "sender": "Carla",
+    "message": "And don't miss the Skin panel to monitor any skin concerns.",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 12:33",
+    "sender": "Rohan",
+    "message": "Okay, okay... How do I schedule this? Can you guys send me a calendar invite?",
+    "event": "logistics"
+  },
+  {
+    "timestamp": "2025-04-08 14:43",
+    "sender": "Sarah",
+    "message": "Will do! Can you please confirm your availability by end of day tomorrow?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 15:17",
+    "sender": "Ruby",
+    "message": "Also, Rohan, do you have any preferences for test timing or specific dates?",
+    "event": "test"
+  },
+  {
+    "timestamp": "2025-04-08 15:27",
+    "sender": "Rohan",
+    "message": "Hmm... Yeah, try to avoid Mondays.",
+    "event": "update"
+  },
+  {
+    "timestamp": "2025-04-08 17:21",
+    "sender": "Sarah",
+    "message": "Got it! I'll schedule accordingly. You good with Saturday morning?",
+    "event": "logistics"
+  }
+]
